@@ -1,21 +1,26 @@
 import React from "react";
 import "./Card.scss";
 import PartyAffiliation from "./../PartyAffiliation/PartyAffiliation";
+const states = require("us-state-converter");
 
-const Card = () => {
+const Card = (props) => {
+  const {
+    congressPerson: { image, name, title, politicalAffiliation, state },
+  } = props;
+
   return (
     <div className="Card">
       <img
         className="Card__image"
-        src="https://theunitedstates.io/images/congress/450x550/C000127.jpg"
+        src={`data:image/webp;base64,${image}`}
         alt="Profile image"
       />
-      <div className="Card__Name Card__row-item">Name</div>
+      <div className="Card__Name Card__row-item">{name}</div>
       <div className="Card__heading Card__row-item">
-        <div className="Card__title">Congressman</div>
-        <PartyAffiliation />
+        <div className="Card__title">{title}</div>
+        <PartyAffiliation party={politicalAffiliation} />
       </div>
-      <div className="Card__state Card__row-item">State</div>
+      <div className="Card__state Card__row-item">{states.fullName(state)}</div>
     </div>
   );
 };
