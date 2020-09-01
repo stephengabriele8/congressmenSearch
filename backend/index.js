@@ -2,13 +2,14 @@ import express from "express";
 import axios from "axios";
 import dataSet from "./data/legislators-current.json";
 import Promise from "bluebird";
+const NodeCache = require("node-cache");
 const webp = require("webp-converter");
 var cors = require("cors");
 
 // this will grant 755 permission to webp executables
 webp.grant_permission();
 
-var CWebp = require("cwebp").CWebp;
+const imgCache = new NodeCache({ stdTTL: 300, checkperiod: 320 });
 
 const getCongressData = () => {
   const result = Promise.map(
@@ -32,23 +33,29 @@ const getCongressData = () => {
 };
 
 const getImage = async (imageRef) => {
-  // https://theunitedstates.io/images/congress/225x275/C000127.jpg
-  let img;
-  try {
-    img = await axios
-      .get(
-        `https://theunitedstates.io/images/congress/225x275/${imageRef}.jpg`,
-        {
-          responseType: "arraybuffer",
-        }
-      )
-      .then((response) => {
-        const base64 = Buffer.from(response.data, "binary").toString("base64");
-        return webp.str2webpstr(base64, "jpg", "-q 80");
-      });
-  } catch (err) {
-    console.log("err:", err);
-    return null;
+  let img = imgCache.get(imageRef);
+  if (img == undefined) {
+    try {
+      img = await axios
+        .get(
+          `https://theunitedstates.io/images/congress/225x275/${imageRef}.jpg`,
+          {
+            responseType: "arraybuffer",
+          }
+        )
+        .then((response) => {
+          const base64 = Buffer.from(response.data, "binary").toString(
+            "base64"
+          );
+          const base64webp = webp.str2webpstr(base64, "jpg", "-q 80");
+          imgCache.set(imageRef, base64webp, 300);
+          return base64webp;
+        });
+    } catch (err) {
+      console.log("err:", err);
+    }
+  } else {
+    Promise.resolve(img);
   }
   return img;
 };
