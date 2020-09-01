@@ -7,10 +7,7 @@
       "govtrack": 400050,
       "opensecrets": "N00003535",
       "votesmart": 27018,
-      "fec": [
-        "H2OH13033",
-        "S6OH00163"
-      ],
+      "fec": ["H2OH13033", "S6OH00163"],
       "cspan": 5051,
       "wikipedia": "Sherrod Brown",
       "house_history": 9996,
@@ -143,10 +140,7 @@
       "govtrack": 300018,
       "opensecrets": "N00007836",
       "votesmart": 27122,
-      "fec": [
-        "S8WA00194",
-        "H2WA01054"
-      ],
+      "fec": ["S8WA00194", "H2WA01054"],
       "cspan": 26137,
       "wikipedia": "Maria Cantwell",
       "house_history": 10608,
@@ -239,10 +233,7 @@
       "opensecrets": "N00001955",
       "votesmart": 26888,
       "icpsr": 15408,
-      "fec": [
-        "H6MD03177",
-        "S6MD03177"
-      ],
+      "fec": ["H6MD03177", "S6MD03177"],
       "cspan": 4004,
       "wikipedia": "Ben Cardin",
       "house_history": 10629,
@@ -400,9 +391,7 @@
       "opensecrets": "N00012508",
       "votesmart": 22421,
       "icpsr": 15015,
-      "fec": [
-        "S8DE00079"
-      ],
+      "fec": ["S8DE00079"],
       "cspan": 663,
       "wikipedia": "Tom Carper",
       "house_history": 10671,
@@ -526,9 +515,7 @@
       "govtrack": 412246,
       "opensecrets": "N00027503",
       "votesmart": 2541,
-      "fec": [
-        "S6PA00217"
-      ],
+      "fec": ["S6PA00217"],
       "cspan": 47036,
       "wikipedia": "Bob Casey Jr.",
       "ballotpedia": "Bob Casey, Jr.",
@@ -605,9 +592,7 @@
       "govtrack": 300043,
       "opensecrets": "N00007364",
       "votesmart": 53273,
-      "fec": [
-        "S0CA00199"
-      ],
+      "fec": ["S0CA00199"],
       "cspan": 13061,
       "wikipedia": "Dianne Feinstein",
       "house_history": 13044,
@@ -707,9 +692,7 @@
       "govtrack": 412242,
       "opensecrets": "N00027500",
       "votesmart": 65092,
-      "fec": [
-        "S6MN00267"
-      ],
+      "fec": ["S6MN00267"],
       "cspan": 83701,
       "wikipedia": "Amy Klobuchar",
       "house_history": 16558,
@@ -790,10 +773,7 @@
       "govtrack": 400272,
       "opensecrets": "N00000699",
       "votesmart": 26961,
-      "fec": [
-        "H2NJ13075",
-        "S6NJ00289"
-      ],
+      "fec": ["H2NJ13075", "S6NJ00289"],
       "cspan": 29608,
       "house_history": 18124,
       "wikipedia": "Bob Menendez",
@@ -942,10 +922,7 @@
       "govtrack": 400357,
       "opensecrets": "N00000528",
       "votesmart": 27110,
-      "fec": [
-        "H8VT01016",
-        "S4VT00033"
-      ],
+      "fec": ["H8VT01016", "S4VT00033"],
       "cspan": 994,
       "wikipedia": "Bernie Sanders",
       "ballotpedia": "Bernie Sanders",
@@ -1098,10 +1075,7 @@
       "govtrack": 300093,
       "opensecrets": "N00004118",
       "votesmart": 515,
-      "fec": [
-        "S8MI00281",
-        "H6MI08163"
-      ],
+      "fec": ["S8MI00281", "H6MI08163"],
       "cspan": 45451,
       "wikipedia": "Debbie Stabenow",
       "ballotpedia": "Debbie Stabenow",
@@ -1209,9 +1183,7 @@
       "govtrack": 412244,
       "opensecrets": "N00027605",
       "votesmart": 20928,
-      "fec": [
-        "S6MT00162"
-      ],
+      "fec": ["S6MT00162"],
       "cspan": 1020176,
       "wikipedia": "Jon Tester",
       "ballotpedia": "Jon Tester",
@@ -1285,9 +1257,7 @@
       "govtrack": 412247,
       "opensecrets": "N00027533",
       "votesmart": 2572,
-      "fec": [
-        "S6RI00221"
-      ],
+      "fec": ["S6RI00221"],
       "cspan": 92235,
       "wikipedia": "Sheldon Whitehouse",
       "ballotpedia": "Sheldon Whitehouse",
@@ -1361,9 +1331,7 @@
       "govtrack": 412251,
       "opensecrets": "N00006236",
       "votesmart": 52662,
-      "fec": [
-        "S6WY00068"
-      ],
+      "fec": ["S6WY00068"],
       "cspan": 1024777,
       "wikipedia": "John Barrasso",
       "ballotpedia": "John Barrasso",
@@ -1446,10 +1414,7 @@
       "govtrack": 400432,
       "opensecrets": "N00003280",
       "votesmart": 21926,
-      "fec": [
-        "H4MS01078",
-        "S8MS00196"
-      ],
+      "fec": ["H4MS01078", "S8MS00196"],
       "cspan": 18203,
       "wikipedia": "Roger Wicker",
       "ballotpedia": "Roger Wicker",
@@ -1583,10 +1548,7 @@
       "govtrack": 300002,
       "opensecrets": "N00009888",
       "votesmart": 15691,
-      "fec": [
-        "S2TN00058",
-        "P60003225"
-      ],
+      "fec": ["S2TN00058", "P60003225"],
       "cspan": 5,
       "wikipedia": "Lamar Alexander",
       "ballotpedia": "Lamar Alexander",
@@ -1656,9 +1618,7 @@
       "govtrack": 300025,
       "opensecrets": "N00000491",
       "votesmart": 379,
-      "fec": [
-        "S6ME00159"
-      ],
+      "fec": ["S6ME00159"],
       "cspan": 45738,
       "wikipedia": "Susan Collins",
       "house_history": 11742,
@@ -1738,9 +1698,7 @@
       "govtrack": 300027,
       "opensecrets": "N00024852",
       "votesmart": 15375,
-      "fec": [
-        "S2TX00106"
-      ],
+      "fec": ["S2TX00106"],
       "cspan": 93131,
       "wikipedia": "John Cornyn",
       "ballotpedia": "John Cornyn",
@@ -1839,10 +1797,7 @@
       "opensecrets": "N00004981",
       "votesmart": 26847,
       "icpsr": 15021,
-      "fec": [
-        "S6IL00151",
-        "H2IL20026"
-      ],
+      "fec": ["S6IL00151", "H2IL20026"],
       "cspan": 6741,
       "wikipedia": "Dick Durbin",
       "house_history": 12527,
@@ -2026,9 +1981,7 @@
       "govtrack": 300041,
       "opensecrets": "N00006249",
       "votesmart": 558,
-      "fec": [
-        "S6WY00126"
-      ],
+      "fec": ["S6WY00126"],
       "cspan": 45824,
       "wikipedia": "Mike Enzi",
       "ballotpedia": "Mike Enzi",
@@ -2107,10 +2060,7 @@
       "govtrack": 300047,
       "opensecrets": "N00009975",
       "votesmart": 21992,
-      "fec": [
-        "S0SC00149",
-        "H4SC03087"
-      ],
+      "fec": ["S0SC00149", "H4SC03087"],
       "cspan": 36782,
       "wikipedia": "Lindsey Graham",
       "house_history": 14015,
@@ -2215,10 +2165,7 @@
       "opensecrets": "N00005582",
       "votesmart": 27027,
       "icpsr": 15424,
-      "fec": [
-        "S4OK00083",
-        "H6OK01102"
-      ],
+      "fec": ["S4OK00083", "H6OK01102"],
       "cspan": 5619,
       "wikipedia": "Jim Inhofe",
       "house_history": 15645,
@@ -2339,9 +2286,7 @@
       "opensecrets": "N00003389",
       "votesmart": 53298,
       "icpsr": 14921,
-      "fec": [
-        "S2KY00012"
-      ],
+      "fec": ["S2KY00012"],
       "cspan": 2351,
       "wikipedia": "Mitch McConnell",
       "ballotpedia": "Mitch McConnell",
@@ -2477,9 +2422,7 @@
       "govtrack": 412325,
       "opensecrets": "N00029303",
       "votesmart": 23644,
-      "fec": [
-        "S8OR00207"
-      ],
+      "fec": ["S8OR00207"],
       "cspan": 1029842,
       "wikipedia": "Jeff Merkley",
       "ballotpedia": "Jeff Merkley",
@@ -2540,10 +2483,7 @@
       "govtrack": 300081,
       "opensecrets": "N00000362",
       "votesmart": 27060,
-      "fec": [
-        "S6RI00163",
-        "H0RI02071"
-      ],
+      "fec": ["S6RI00163", "H0RI02071"],
       "cspan": 24239,
       "wikipedia": "Jack Reed (Rhode Island politician)",
       "house_history": 20232,
@@ -2648,9 +2588,7 @@
       "govtrack": 412322,
       "opensecrets": "N00029441",
       "votesmart": 2919,
-      "fec": [
-        "S8ID00092"
-      ],
+      "fec": ["S8ID00092"],
       "cspan": 1020034,
       "wikipedia": "Jim Risch",
       "ballotpedia": "Jim Risch",
@@ -2710,10 +2648,7 @@
       "opensecrets": "N00005285",
       "votesmart": 26866,
       "icpsr": 14852,
-      "fec": [
-        "S6KS00080",
-        "H0KS01016"
-      ],
+      "fec": ["S6KS00080", "H0KS01016"],
       "cspan": 16354,
       "wikipedia": "Pat Roberts",
       "house_history": 20465,
@@ -2855,9 +2790,7 @@
       "govtrack": 412323,
       "opensecrets": "N00024790",
       "votesmart": 1663,
-      "fec": [
-        "S0NH00219"
-      ],
+      "fec": ["S0NH00219"],
       "cspan": 22850,
       "wikipedia": "Jeanne Shaheen",
       "ballotpedia": "Jeanne Shaheen",
@@ -2919,10 +2852,7 @@
       "govtrack": 400413,
       "opensecrets": "N00006561",
       "votesmart": 22658,
-      "fec": [
-        "H8NM03097",
-        "S8NM00184"
-      ],
+      "fec": ["H8NM03097", "S8NM00184"],
       "cspan": 10075,
       "wikipedia": "Tom Udall",
       "house_history": 20879,
@@ -3046,10 +2976,7 @@
       "govtrack": 412321,
       "opensecrets": "N00002097",
       "votesmart": 535,
-      "fec": [
-        "S6VA00093",
-        "P80003023"
-      ],
+      "fec": ["S6VA00093", "P80003023"],
       "cspan": 7630,
       "wikipedia": "Mark Warner",
       "ballotpedia": "Mark Warner",
@@ -3110,10 +3037,7 @@
       "govtrack": 412223,
       "opensecrets": "N00027658",
       "votesmart": 65147,
-      "fec": [
-        "H6NY20167",
-        "S0NY00410"
-      ],
+      "fec": ["H6NY20167", "S0NY00410"],
       "cspan": 1022862,
       "wikipedia": "Kirsten Gillibrand",
       "house_history": 14269,
@@ -3208,9 +3132,7 @@
       "govtrack": 412390,
       "opensecrets": "N00031820",
       "votesmart": 122834,
-      "fec": [
-        "S0DE00092"
-      ],
+      "fec": ["S0DE00092"],
       "cspan": 9269028,
       "wikipedia": "Chris Coons",
       "ballotpedia": "Chris Coons",
@@ -3272,9 +3194,7 @@
       "govtrack": 412391,
       "opensecrets": "N00032838",
       "votesmart": 7547,
-      "fec": [
-        "S0WV00090"
-      ],
+      "fec": ["S0WV00090"],
       "cspan": 62864,
       "wikipedia": "Joe Manchin",
       "ballotpedia": "Joe Manchin III",
@@ -3347,9 +3267,7 @@
       "govtrack": 400004,
       "opensecrets": "N00003028",
       "votesmart": 441,
-      "fec": [
-        "H6AL04098"
-      ],
+      "fec": ["H6AL04098"],
       "cspan": 45516,
       "wikipedia": "Robert Aderholt",
       "house_history": 8333,
@@ -3510,9 +3428,7 @@
       "govtrack": 412438,
       "opensecrets": "N00031938",
       "votesmart": 105566,
-      "fec": [
-        "H0MI03126"
-      ],
+      "fec": ["H0MI03126"],
       "cspan": 1033767,
       "wikipedia": "Justin Amash",
       "house_history": 8769,
@@ -3629,10 +3545,7 @@
       "govtrack": 400013,
       "opensecrets": "N00004367",
       "votesmart": 3470,
-      "fec": [
-        "H8WI00018",
-        "S2WI00219"
-      ],
+      "fec": ["H8WI00018", "S2WI00219"],
       "cspan": 57884,
       "wikipedia": "Tammy Baldwin",
       "house_history": 10361,
@@ -3758,9 +3671,7 @@
       "govtrack": 412404,
       "opensecrets": "N00031877",
       "votesmart": 28963,
-      "fec": [
-        "H0CA33117"
-      ],
+      "fec": ["H0CA33117"],
       "cspan": 62502,
       "wikipedia": "Karen Bass",
       "house_history": 10433,
@@ -3859,9 +3770,7 @@
       "govtrack": 412330,
       "opensecrets": "N00030608",
       "votesmart": 110942,
-      "fec": [
-        "S0CO00211"
-      ],
+      "fec": ["S0CO00211"],
       "cspan": 1031622,
       "wikipedia": "Michael Bennet",
       "ballotpedia": "Michael Bennet",
@@ -3932,9 +3841,7 @@
       "govtrack": 412250,
       "opensecrets": "N00027462",
       "votesmart": 17318,
-      "fec": [
-        "H6FL09070"
-      ],
+      "fec": ["H6FL09070"],
       "cspan": 1022873,
       "wikipedia": "Gus Bilirakis",
       "house_history": 10413,
@@ -4059,9 +3966,7 @@
       "govtrack": 400029,
       "opensecrets": "N00025292",
       "votesmart": 50544,
-      "fec": [
-        "H2UT01094"
-      ],
+      "fec": ["H2UT01094"],
       "cspan": 1003621,
       "wikipedia": "Rob Bishop",
       "house_history": 10399,
@@ -4197,9 +4102,7 @@
       "govtrack": 400030,
       "opensecrets": "N00002674",
       "votesmart": 26817,
-      "fec": [
-        "H2GA02031"
-      ],
+      "fec": ["H2GA02031"],
       "cspan": 26194,
       "wikipedia": "Sanford Bishop",
       "maplight": 148,
@@ -4376,10 +4279,7 @@
       "govtrack": 400032,
       "opensecrets": "N00003105",
       "votesmart": 25186,
-      "fec": [
-        "H2TN06030",
-        "S8TN00337"
-      ],
+      "fec": ["H2TN06030", "S8TN00337"],
       "cspan": 31226,
       "wikipedia": "Marsha Blackburn",
       "house_history": 10385,
@@ -4518,9 +4418,7 @@
       "govtrack": 400033,
       "opensecrets": "N00007727",
       "votesmart": 367,
-      "fec": [
-        "H6OR03064"
-      ],
+      "fec": ["H6OR03064"],
       "cspan": 43809,
       "wikipedia": "Earl Blumenauer",
       "house_history": 9518,
@@ -4689,9 +4587,7 @@
       "govtrack": 412490,
       "opensecrets": "N00031685",
       "votesmart": 1568,
-      "fec": [
-        "S0CT00177"
-      ],
+      "fec": ["S0CT00177"],
       "cspan": 21799,
       "wikipedia": "Richard Blumenthal",
       "ballotpedia": "Richard Blumenthal",
@@ -4752,10 +4648,7 @@
       "govtrack": 400034,
       "opensecrets": "N00005195",
       "votesmart": 418,
-      "fec": [
-        "H6MO07128",
-        "S0MO00183"
-      ],
+      "fec": ["H6MO07128", "S0MO00183"],
       "cspan": 45465,
       "wikipedia": "Roy Blunt",
       "house_history": 9520,
@@ -4884,10 +4777,7 @@
       "govtrack": 400040,
       "opensecrets": "N00013873",
       "votesmart": 27958,
-      "fec": [
-        "H2AR03176",
-        "S0AR00150"
-      ],
+      "fec": ["H2AR03176", "S0AR00150"],
       "cspan": 92069,
       "wikipedia": "John Boozman",
       "house_history": 10372,
@@ -4992,9 +4882,7 @@
       "govtrack": 400046,
       "opensecrets": "N00005883",
       "votesmart": 361,
-      "fec": [
-        "H6TX08100"
-      ],
+      "fec": ["H6TX08100"],
       "cspan": 45749,
       "wikipedia": "Kevin Brady",
       "house_history": 9754,
@@ -5154,9 +5042,7 @@
       "govtrack": 412395,
       "opensecrets": "N00030910",
       "votesmart": 121610,
-      "fec": [
-        "H0AL05163"
-      ],
+      "fec": ["H0AL05163"],
       "cspan": 94888,
       "wikipedia": "Mo Brooks",
       "house_history": 10438,
@@ -5255,9 +5141,7 @@
       "govtrack": 412196,
       "opensecrets": "N00027626",
       "votesmart": 66247,
-      "fec": [
-        "H6FL13148"
-      ],
+      "fec": ["H6FL13148"],
       "cspan": 1021626,
       "wikipedia": "Vern Buchanan",
       "house_history": 10419,
@@ -5375,9 +5259,7 @@
       "govtrack": 412427,
       "opensecrets": "N00031227",
       "votesmart": 120335,
-      "fec": [
-        "H0IN08114"
-      ],
+      "fec": ["H0IN08114"],
       "cspan": 61837,
       "wikipedia": "Larry Bucshon",
       "house_history": 10439,
@@ -5476,9 +5358,7 @@
       "govtrack": 400052,
       "opensecrets": "N00025219",
       "votesmart": 50120,
-      "fec": [
-        "H2TX26093"
-      ],
+      "fec": ["H2TX26093"],
       "cspan": 1003620,
       "wikipedia": "Michael C. Burgess",
       "house_history": 10395,
@@ -5615,10 +5495,7 @@
       "govtrack": 400054,
       "opensecrets": "N00002221",
       "votesmart": 21787,
-      "fec": [
-        "S4NC00089",
-        "H2NC05074"
-      ],
+      "fec": ["S4NC00089", "H2NC05074"],
       "cspan": 31054,
       "house_history": 10236,
       "wikipedia": "Richard Burr",
@@ -5730,9 +5607,7 @@
       "govtrack": 400616,
       "opensecrets": "N00027035",
       "votesmart": 41077,
-      "fec": [
-        "H4NC01046"
-      ],
+      "fec": ["H4NC01046"],
       "cspan": 1013540,
       "wikipedia": "G. K. Butterfield",
       "house_history": 10401,
@@ -5870,9 +5745,7 @@
       "govtrack": 400057,
       "opensecrets": "N00007099",
       "votesmart": 26777,
-      "fec": [
-        "H2CA37023"
-      ],
+      "fec": ["H2CA37023"],
       "cspan": 26709,
       "wikipedia": "Ken Calvert",
       "house_history": 10517,
@@ -6048,10 +5921,7 @@
       "govtrack": 400061,
       "opensecrets": "N00009771",
       "votesmart": 11701,
-      "fec": [
-        "H0WV02138",
-        "S4WV00159"
-      ],
+      "fec": ["H0WV02138", "S4WV00159"],
       "cspan": 83737,
       "wikipedia": "Shelley Moore Capito",
       "house_history": 11762,
@@ -6176,9 +6046,7 @@
       "govtrack": 412258,
       "opensecrets": "N00029513",
       "votesmart": 84917,
-      "fec": [
-        "H8IN07184"
-      ],
+      "fec": ["H8IN07184"],
       "cspan": 1027364,
       "wikipedia": "Andr\u00e9 Carson",
       "house_history": 11806,
@@ -6302,9 +6170,7 @@
       "govtrack": 400068,
       "opensecrets": "N00025095",
       "votesmart": 49296,
-      "fec": [
-        "H2TX31044"
-      ],
+      "fec": ["H2TX31044"],
       "cspan": 1004257,
       "wikipedia": "John Carter (Texas politician)",
       "house_history": 11770,
@@ -6441,10 +6307,7 @@
       "govtrack": 412269,
       "opensecrets": "N00030245",
       "votesmart": 69494,
-      "fec": [
-        "H8LA00017",
-        "S4LA00107"
-      ],
+      "fec": ["H8LA00017", "S4LA00107"],
       "cspan": 1030546,
       "wikipedia": "Bill Cassidy",
       "house_history": 11811,
@@ -6527,10 +6390,7 @@
       "govtrack": 412195,
       "opensecrets": "N00027514",
       "votesmart": 53825,
-      "fec": [
-        "H6FL11126",
-        "H6FL11134"
-      ],
+      "fec": ["H6FL11126", "H6FL11134"],
       "cspan": 1022874,
       "wikipedia": "Kathy Castor",
       "house_history": 11796,
@@ -6648,9 +6508,7 @@
       "govtrack": 400071,
       "opensecrets": "N00003689",
       "votesmart": 21790,
-      "fec": [
-        "H8OH01043"
-      ],
+      "fec": ["H8OH01043"],
       "cspan": 36705,
       "wikipedia": "Steve Chabot",
       "house_history": 10791,
@@ -6809,9 +6667,7 @@
       "govtrack": 412379,
       "opensecrets": "N00030600",
       "votesmart": 16539,
-      "fec": [
-        "H0CA32101"
-      ],
+      "fec": ["H0CA32101"],
       "cspan": 92573,
       "wikipedia": "Judy Chu",
       "house_history": 11820,
@@ -6921,9 +6777,7 @@
       "govtrack": 412470,
       "opensecrets": "N00032019",
       "votesmart": 7349,
-      "fec": [
-        "H0RI01073"
-      ],
+      "fec": ["H0RI01073"],
       "cspan": 1033865,
       "wikipedia": "David Cicilline",
       "house_history": 11826,
@@ -7023,9 +6877,7 @@
       "govtrack": 412221,
       "opensecrets": "N00026961",
       "votesmart": 44741,
-      "fec": [
-        "H4NY11138"
-      ],
+      "fec": ["H4NY11138"],
       "cspan": 1022875,
       "wikipedia": "Yvette Clarke",
       "house_history": 11798,
@@ -7144,9 +6996,7 @@
       "govtrack": 400074,
       "opensecrets": "N00012460",
       "votesmart": 8967,
-      "fec": [
-        "H0MO01066"
-      ],
+      "fec": ["H0MO01066"],
       "cspan": 88332,
       "wikipedia": "Lacy Clay",
       "house_history": 11766,
@@ -7294,9 +7144,7 @@
       "govtrack": 400639,
       "opensecrets": "N00026790",
       "votesmart": 39507,
-      "fec": [
-        "H4MO05234"
-      ],
+      "fec": ["H4MO05234"],
       "cspan": 10933,
       "wikipedia": "Emanuel Cleaver",
       "house_history": 11786,
@@ -7422,9 +7270,7 @@
       "govtrack": 400075,
       "opensecrets": "N00002408",
       "votesmart": 27066,
-      "fec": [
-        "H2SC02042"
-      ],
+      "fec": ["H2SC02042"],
       "cspan": 21607,
       "wikipedia": "Jim Clyburn",
       "house_history": 11119,
@@ -7615,9 +7461,7 @@
       "govtrack": 412236,
       "opensecrets": "N00003225",
       "votesmart": 24340,
-      "fec": [
-        "H6TN09068"
-      ],
+      "fec": ["H6TN09068"],
       "cspan": 1022876,
       "wikipedia": "Steve Cohen",
       "house_history": 11800,
@@ -7734,9 +7578,7 @@
       "govtrack": 400077,
       "opensecrets": "N00025726",
       "votesmart": 46034,
-      "fec": [
-        "H2OK04055"
-      ],
+      "fec": ["H2OK04055"],
       "cspan": 1003609,
       "wikipedia": "Tom Cole",
       "house_history": 11774,
@@ -7872,10 +7714,7 @@
       "govtrack": 400655,
       "opensecrets": "N00026041",
       "votesmart": 49935,
-      "fec": [
-        "H4TX19136",
-        "H3TX19021"
-      ],
+      "fec": ["H4TX19136", "H3TX19021"],
       "cspan": 1004595,
       "wikipedia": "Mike Conaway",
       "house_history": 11788,
@@ -7998,9 +7837,7 @@
       "govtrack": 412272,
       "opensecrets": "N00029891",
       "votesmart": 95078,
-      "fec": [
-        "H8VA11062"
-      ],
+      "fec": ["H8VA11062"],
       "cspan": 1015936,
       "wikipedia": "Gerry Connolly",
       "house_history": 11817,
@@ -8110,11 +7947,7 @@
       "opensecrets": "N00003132",
       "votesmart": 48891,
       "icpsr": 15019,
-      "fec": [
-        "H2TN05131",
-        "H2TN04027",
-        "S4TN00096"
-      ],
+      "fec": ["H2TN05131", "H2TN04027", "S4TN00096"],
       "cspan": 1201,
       "wikipedia": "Jim Cooper",
       "house_history": 11401,
@@ -8297,9 +8130,7 @@
       "govtrack": 400618,
       "opensecrets": "N00026341",
       "votesmart": 3577,
-      "fec": [
-        "H4CA20082"
-      ],
+      "fec": ["H4CA20082"],
       "cspan": 19599,
       "house_history": 11782,
       "wikipedia": "Jim Costa",
@@ -8424,9 +8255,7 @@
       "govtrack": 412193,
       "opensecrets": "N00024842",
       "votesmart": 30333,
-      "fec": [
-        "H2CT02112"
-      ],
+      "fec": ["H2CT02112"],
       "cspan": 1021284,
       "house_history": 11802,
       "wikipedia": "Joe Courtney (politician)",
@@ -8545,10 +8374,7 @@
       "govtrack": 300030,
       "opensecrets": "N00006267",
       "votesmart": 26830,
-      "fec": [
-        "S8ID00027",
-        "H2ID02034"
-      ],
+      "fec": ["S8ID00027", "H2ID02034"],
       "cspan": 26440,
       "wikipedia": "Mike Crapo",
       "house_history": 11556,
@@ -8650,9 +8476,7 @@
       "govtrack": 412400,
       "opensecrets": "N00030770",
       "votesmart": 119208,
-      "fec": [
-        "H0AR01083"
-      ],
+      "fec": ["H0AR01083"],
       "cspan": 623259,
       "wikipedia": "Rick Crawford (politician)",
       "house_history": 11831,
@@ -8753,9 +8577,7 @@
       "govtrack": 400657,
       "opensecrets": "N00024978",
       "votesmart": 5486,
-      "fec": [
-        "H2TX23082"
-      ],
+      "fec": ["H2TX23082"],
       "cspan": 1013062,
       "wikipedia": "Henry Cuellar",
       "house_history": 11790,
@@ -8880,9 +8702,7 @@
       "govtrack": 400093,
       "opensecrets": "N00004884",
       "votesmart": 233,
-      "fec": [
-        "H4IL07037"
-      ],
+      "fec": ["H4IL07037"],
       "cspan": 44325,
       "wikipedia": "Danny K. Davis",
       "house_history": 11949,
@@ -9043,9 +8863,7 @@
       "govtrack": 400097,
       "opensecrets": "N00009604",
       "votesmart": 8168,
-      "fec": [
-        "H0CA49055"
-      ],
+      "fec": ["H0CA49055"],
       "cspan": 85595,
       "wikipedia": "Susan Davis (politician)",
       "house_history": 12571,
@@ -9186,10 +9004,7 @@
       "opensecrets": "N00007781",
       "votesmart": 27037,
       "icpsr": 15410,
-      "fec": [
-        "H6OR04047",
-        "S6OR00151"
-      ],
+      "fec": ["H6OR04047", "S6OR00151"],
       "cspan": 6068,
       "wikipedia": "Peter DeFazio",
       "house_history": 12068,
@@ -9386,9 +9201,7 @@
       "govtrack": 400101,
       "opensecrets": "N00006134",
       "votesmart": 561,
-      "fec": [
-        "H6CO01141"
-      ],
+      "fec": ["H6CO01141"],
       "cspan": 90293,
       "wikipedia": "Diana DeGette",
       "house_history": 12076,
@@ -9549,9 +9362,7 @@
       "govtrack": 400103,
       "opensecrets": "N00000615",
       "votesmart": 26788,
-      "fec": [
-        "H0CT03072"
-      ],
+      "fec": ["H0CT03072"],
       "cspan": 19040,
       "wikipedia": "Rosa DeLauro",
       "house_history": 12101,
@@ -9736,9 +9547,7 @@
       "govtrack": 412477,
       "opensecrets": "N00030957",
       "votesmart": 123473,
-      "fec": [
-        "H0TN04195"
-      ],
+      "fec": ["H0TN04195"],
       "cspan": 623517,
       "wikipedia": "Scott DesJarlais",
       "house_history": 12604,
@@ -9836,9 +9645,7 @@
       "govtrack": 412385,
       "opensecrets": "N00031317",
       "votesmart": 67151,
-      "fec": [
-        "H0FL19080"
-      ],
+      "fec": ["H0FL19080"],
       "cspan": 9267613,
       "wikipedia": "Ted Deutch",
       "house_history": 12594,
@@ -9949,9 +9756,7 @@
       "govtrack": 400108,
       "opensecrets": "N00025337",
       "votesmart": 24312,
-      "fec": [
-        "H2FL25018"
-      ],
+      "fec": ["H2FL25018"],
       "cspan": 1003562,
       "wikipedia": "Mario D\u00edaz-Balart",
       "house_history": 12575,
@@ -10093,9 +9898,7 @@
       "govtrack": 400111,
       "opensecrets": "N00006023",
       "votesmart": 21689,
-      "fec": [
-        "H4TX10028"
-      ],
+      "fec": ["H4TX10028"],
       "cspan": 36810,
       "wikipedia": "Lloyd Doggett",
       "house_history": 12328,
@@ -10263,9 +10066,7 @@
       "govtrack": 400114,
       "opensecrets": "N00001373",
       "votesmart": 21853,
-      "fec": [
-        "H4PA18131"
-      ],
+      "fec": ["H4PA18131"],
       "cspan": 36774,
       "wikipedia": "Michael F. Doyle",
       "house_history": 12436,
@@ -10436,9 +10237,7 @@
       "govtrack": 412472,
       "opensecrets": "N00030752",
       "votesmart": 47967,
-      "fec": [
-        "H0SC03077"
-      ],
+      "fec": ["H0SC03077"],
       "cspan": 62713,
       "wikipedia": "Jeff Duncan (politician)",
       "house_history": 12602,
@@ -10538,9 +10337,7 @@
       "opensecrets": "N00001003",
       "votesmart": 26972,
       "icpsr": 15603,
-      "fec": [
-        "H8NY19058"
-      ],
+      "fec": ["H8NY19058"],
       "cspan": 6109,
       "wikipedia": "Eliot Engel",
       "house_history": 12815,
@@ -10727,9 +10524,7 @@
       "govtrack": 400124,
       "opensecrets": "N00007335",
       "votesmart": 26741,
-      "fec": [
-        "H8CA12098"
-      ],
+      "fec": ["H8CA12098"],
       "cspan": 26130,
       "wikipedia": "Anna Eshoo",
       "house_history": 12867,
@@ -10905,9 +10700,7 @@
       "govtrack": 412476,
       "opensecrets": "N00030815",
       "votesmart": 123456,
-      "fec": [
-        "H0TN03254"
-      ],
+      "fec": ["H0TN03254"],
       "cspan": 95146,
       "wikipedia": "Chuck Fleischmann",
       "house_history": 13563,
@@ -11007,9 +10800,7 @@
       "govtrack": 412480,
       "opensecrets": "N00031545",
       "votesmart": 116906,
-      "fec": [
-        "H0TX17104"
-      ],
+      "fec": ["H0TX17104"],
       "cspan": 623540,
       "wikipedia": "Bill Flores",
       "house_history": 13566,
@@ -11107,9 +10898,7 @@
       "govtrack": 400640,
       "opensecrets": "N00026631",
       "votesmart": 41929,
-      "fec": [
-        "H4NE01064"
-      ],
+      "fec": ["H4NE01064"],
       "cspan": 1013049,
       "wikipedia": "Jeff Fortenberry",
       "house_history": 13545,
@@ -11236,9 +11025,7 @@
       "govtrack": 400643,
       "opensecrets": "N00026166",
       "votesmart": 6051,
-      "fec": [
-        "H4NC05146"
-      ],
+      "fec": ["H4NC05146"],
       "cspan": 1013052,
       "wikipedia": "Virginia Foxx",
       "house_history": 13547,
@@ -11364,9 +11151,7 @@
       "govtrack": 412327,
       "opensecrets": "N00030490",
       "votesmart": 110640,
-      "fec": [
-        "H8OH11141"
-      ],
+      "fec": ["H8OH11141"],
       "cspan": 1030928,
       "house_history": 13557,
       "wikipedia": "Marcia Fudge",
@@ -11485,9 +11270,7 @@
       "govtrack": 412382,
       "opensecrets": "N00030856",
       "votesmart": 29664,
-      "fec": [
-        "H0CA10149"
-      ],
+      "fec": ["H0CA10149"],
       "cspan": 18413,
       "wikipedia": "John Garamendi",
       "house_history": 14276,
@@ -11595,10 +11378,7 @@
       "govtrack": 412406,
       "opensecrets": "N00030780",
       "votesmart": 30004,
-      "fec": [
-        "H0CO04122",
-        "S4CO00395"
-      ],
+      "fec": ["H0CO04122", "S4CO00395"],
       "cspan": 623308,
       "wikipedia": "Cory Gardner",
       "house_history": 14279,
@@ -11670,9 +11450,7 @@
       "govtrack": 412463,
       "opensecrets": "N00031128",
       "votesmart": 45466,
-      "fec": [
-        "H0OH18077"
-      ],
+      "fec": ["H0OH18077"],
       "cspan": 1033844,
       "wikipedia": "Bob Gibbs",
       "house_history": 14280,
@@ -11771,9 +11549,7 @@
       "govtrack": 400651,
       "opensecrets": "N00026148",
       "votesmart": 50029,
-      "fec": [
-        "H4TX04039"
-      ],
+      "fec": ["H4TX04039"],
       "cspan": 1011394,
       "wikipedia": "Louie Gohmert",
       "house_history": 14263,
@@ -11901,9 +11677,7 @@
       "govtrack": 412397,
       "opensecrets": "N00030771",
       "votesmart": 123491,
-      "fec": [
-        "H0AZ01259"
-      ],
+      "fec": ["H0AZ01259"],
       "cspan": 62470,
       "wikipedia": "Paul Gosar",
       "house_history": 14283,
@@ -12003,9 +11777,7 @@
       "govtrack": 400157,
       "opensecrets": "N00008799",
       "votesmart": 334,
-      "fec": [
-        "H6TX12060"
-      ],
+      "fec": ["H6TX12060"],
       "cspan": 45709,
       "wikipedia": "Kay Granger",
       "house_history": 14039,
@@ -12166,9 +11938,7 @@
       "opensecrets": "N00001758",
       "votesmart": 53293,
       "icpsr": 14226,
-      "fec": [
-        "S0IA00028"
-      ],
+      "fec": ["S0IA00028"],
       "cspan": 1167,
       "wikipedia": "Chuck Grassley",
       "house_history": 14050,
@@ -12303,9 +12073,7 @@
       "govtrack": 400158,
       "opensecrets": "N00013323",
       "votesmart": 9425,
-      "fec": [
-        "H0MO06073"
-      ],
+      "fec": ["H0MO06073"],
       "cspan": 89873,
       "wikipedia": "Sam Graves",
       "house_history": 14251,
@@ -12449,9 +12217,7 @@
       "govtrack": 412388,
       "opensecrets": "N00030788",
       "votesmart": 31969,
-      "fec": [
-        "H0GA09030"
-      ],
+      "fec": ["H0GA09030"],
       "cspan": 11519,
       "wikipedia": "Tom Graves",
       "house_history": 14278,
@@ -12560,9 +12326,7 @@
       "govtrack": 400653,
       "opensecrets": "N00026686",
       "votesmart": 49680,
-      "fec": [
-        "H4TX09095"
-      ],
+      "fec": ["H4TX09095"],
       "cspan": 1012969,
       "wikipedia": "Al Green (politician)",
       "house_history": 14265,
@@ -12688,9 +12452,7 @@
       "govtrack": 412485,
       "opensecrets": "N00032029",
       "votesmart": 5148,
-      "fec": [
-        "H0VA09055"
-      ],
+      "fec": ["H0VA09055"],
       "cspan": 62766,
       "wikipedia": "Morgan Griffith",
       "house_history": 14288,
@@ -12790,9 +12552,7 @@
       "govtrack": 400162,
       "opensecrets": "N00025284",
       "votesmart": 28253,
-      "fec": [
-        "H2AZ07070"
-      ],
+      "fec": ["H2AZ07070"],
       "cspan": 1003551,
       "wikipedia": "Ra\u00fal Grijalva",
       "house_history": 14261,
@@ -12929,9 +12689,7 @@
       "govtrack": 412278,
       "opensecrets": "N00029675",
       "votesmart": 18829,
-      "fec": [
-        "H8KY02031"
-      ],
+      "fec": ["H8KY02031"],
       "cspan": 1031343,
       "wikipedia": "Brett Guthrie",
       "house_history": 14275,
@@ -13040,9 +12798,7 @@
       "govtrack": 412434,
       "opensecrets": "N00029147",
       "votesmart": 19157,
-      "fec": [
-        "H8MD01094"
-      ],
+      "fec": ["H8MD01094"],
       "cspan": 1033464,
       "wikipedia": "Andy Harris (politician)",
       "house_history": 15599,
@@ -13140,9 +12896,7 @@
       "govtrack": 412444,
       "opensecrets": "N00031005",
       "votesmart": 8783,
-      "fec": [
-        "H0MO04086"
-      ],
+      "fec": ["H0MO04086"],
       "cspan": 95050,
       "wikipedia": "Vicky Hartzler",
       "house_history": 15601,
@@ -13241,9 +12995,7 @@
       "govtrack": 400170,
       "opensecrets": "N00002884",
       "votesmart": 26798,
-      "fec": [
-        "H2FL23021"
-      ],
+      "fec": ["H2FL23021"],
       "cspan": 1858,
       "wikipedia": "Alcee Hastings",
       "house_history": 14683,
@@ -13421,10 +13173,7 @@
       "govtrack": 412281,
       "opensecrets": "N00029835",
       "votesmart": 74517,
-      "fec": [
-        "H8NM01224",
-        "S2NM00088"
-      ],
+      "fec": ["H8NM01224", "S2NM00088"],
       "cspan": 1030686,
       "wikipedia": "Martin Heinrich",
       "house_history": 15588,
@@ -13505,9 +13254,7 @@
       "govtrack": 412486,
       "opensecrets": "N00031559",
       "votesmart": 101907,
-      "fec": [
-        "H0WA03187"
-      ],
+      "fec": ["H0WA03187"],
       "cspan": 95198,
       "wikipedia": "Jaime Herrera Beutler",
       "house_history": 15606,
@@ -13605,9 +13352,7 @@
       "govtrack": 400641,
       "opensecrets": "N00027060",
       "votesmart": 23127,
-      "fec": [
-        "H4NY27076"
-      ],
+      "fec": ["H4NY27076"],
       "cspan": 1013050,
       "house_history": 15572,
       "wikipedia": "Brian Higgins",
@@ -13734,9 +13479,7 @@
       "govtrack": 412282,
       "opensecrets": "N00029070",
       "votesmart": 106744,
-      "fec": [
-        "H8CT04172"
-      ],
+      "fec": ["H8CT04172"],
       "cspan": 1031341,
       "wikipedia": "Jim Himes",
       "house_history": 15590,
@@ -13847,10 +13590,7 @@
       "govtrack": 412200,
       "opensecrets": "N00028139",
       "votesmart": 1677,
-      "fec": [
-        "H6HI02251",
-        "S2HI00106"
-      ],
+      "fec": ["H6HI02251", "S2HI00106"],
       "cspan": 91216,
       "wikipedia": "Mazie Hirono",
       "house_history": 15580,
@@ -13944,9 +13684,7 @@
       "govtrack": 412494,
       "opensecrets": "N00031688",
       "votesmart": 41788,
-      "fec": [
-        "S0ND00093"
-      ],
+      "fec": ["S0ND00093"],
       "cspan": 85233,
       "wikipedia": "John Hoeven",
       "ballotpedia": "John Hoeven",
@@ -14007,9 +13745,7 @@
       "opensecrets": "N00001821",
       "votesmart": 26890,
       "icpsr": 14873,
-      "fec": [
-        "H2MD05155"
-      ],
+      "fec": ["H2MD05155"],
       "cspan": 1919,
       "wikipedia": "Steny Hoyer",
       "house_history": 15365,
@@ -14276,9 +14012,7 @@
       "govtrack": 412437,
       "opensecrets": "N00030673",
       "votesmart": 38351,
-      "fec": [
-        "H0MI02094"
-      ],
+      "fec": ["H0MI02094"],
       "cspan": 1033765,
       "wikipedia": "Bill Huizenga",
       "house_history": 15610,
@@ -14377,9 +14111,7 @@
       "govtrack": 400199,
       "opensecrets": "N00005818",
       "votesmart": 21692,
-      "fec": [
-        "H4TX18054"
-      ],
+      "fec": ["H4TX18054"],
       "cspan": 36819,
       "wikipedia": "Sheila Jackson Lee",
       "house_history": 15730,
@@ -14546,9 +14278,7 @@
       "govtrack": 412460,
       "opensecrets": "N00032088",
       "votesmart": 120649,
-      "fec": [
-        "H0OH06189"
-      ],
+      "fec": ["H0OH06189"],
       "cspan": 623472,
       "wikipedia": "Bill Johnson (Ohio politician)",
       "house_history": 16071,
@@ -14647,9 +14377,7 @@
       "govtrack": 400204,
       "opensecrets": "N00008122",
       "votesmart": 27098,
-      "fec": [
-        "H2TX00015"
-      ],
+      "fec": ["H2TX00015"],
       "cspan": 23352,
       "wikipedia": "Eddie Bernice Johnson",
       "house_history": 15852,
@@ -14825,9 +14553,7 @@
       "govtrack": 412199,
       "opensecrets": "N00027848",
       "votesmart": 68070,
-      "fec": [
-        "H6GA04129"
-      ],
+      "fec": ["H6GA04129"],
       "cspan": 1020576,
       "wikipedia": "Hank Johnson",
       "house_history": 16065,
@@ -14949,9 +14675,7 @@
       "govtrack": 412496,
       "opensecrets": "N00032546",
       "votesmart": 126217,
-      "fec": [
-        "S0WI00197"
-      ],
+      "fec": ["S0WI00197"],
       "cspan": 62835,
       "wikipedia": "Ron Johnson (Wisconsin politician)",
       "ballotpedia": "Ron Johnson (Wisconsin)",
@@ -15011,9 +14735,7 @@
       "govtrack": 412226,
       "opensecrets": "N00027894",
       "votesmart": 8158,
-      "fec": [
-        "H6OH04082"
-      ],
+      "fec": ["H6OH04082"],
       "cspan": 1022879,
       "wikipedia": "Jim Jordan (American politician)",
       "house_history": 16067,
@@ -15132,9 +14854,7 @@
       "opensecrets": "N00003522",
       "votesmart": 27016,
       "icpsr": 15029,
-      "fec": [
-        "H2OH09031"
-      ],
+      "fec": ["H2OH09031"],
       "cspan": 1458,
       "wikipedia": "Marcy Kaptur",
       "house_history": 16086,
@@ -15348,9 +15068,7 @@
       "govtrack": 412435,
       "opensecrets": "N00031933",
       "votesmart": 4743,
-      "fec": [
-        "H0MA10082"
-      ],
+      "fec": ["H0MA10082"],
       "cspan": 61856,
       "wikipedia": "Bill Keating (politician)",
       "house_history": 16570,
@@ -15449,9 +15167,7 @@
       "govtrack": 412465,
       "opensecrets": "N00031647",
       "votesmart": 119463,
-      "fec": [
-        "H0PA03271"
-      ],
+      "fec": ["H0PA03271"],
       "cspan": 62696,
       "wikipedia": "Mike Kelly (Pennsylvania politician)",
       "house_history": 16572,
@@ -15550,9 +15266,7 @@
       "govtrack": 400218,
       "opensecrets": "N00004403",
       "votesmart": 630,
-      "fec": [
-        "H6WI03099"
-      ],
+      "fec": ["H6WI03099"],
       "cspan": 45870,
       "wikipedia": "Ron Kind",
       "house_history": 16313,
@@ -15713,9 +15427,7 @@
       "govtrack": 400219,
       "opensecrets": "N00001193",
       "votesmart": 26968,
-      "fec": [
-        "H2NY03089"
-      ],
+      "fec": ["H2NY03089"],
       "cspan": 26487,
       "wikipedia": "Peter T. King",
       "house_history": 16338,
@@ -15893,9 +15605,7 @@
       "govtrack": 400220,
       "opensecrets": "N00025237",
       "votesmart": 10853,
-      "fec": [
-        "H2IA05072"
-      ],
+      "fec": ["H2IA05072"],
       "cspan": 1003590,
       "house_history": 16548,
       "wikipedia": "Steve King",
@@ -16032,9 +15742,7 @@
       "govtrack": 412421,
       "opensecrets": "N00030667",
       "votesmart": 116559,
-      "fec": [
-        "H0IL11052"
-      ],
+      "fec": ["H0IL11052"],
       "cspan": 62573,
       "wikipedia": "Adam Kinzinger",
       "house_history": 16573,
@@ -16133,9 +15841,7 @@
       "govtrack": 412191,
       "opensecrets": "N00028133",
       "votesmart": 2698,
-      "fec": [
-        "H6CO05159"
-      ],
+      "fec": ["H6CO05159"],
       "cspan": 1022846,
       "wikipedia": "Doug Lamborn",
       "house_history": 17305,
@@ -16253,9 +15959,7 @@
       "govtrack": 400230,
       "opensecrets": "N00009724",
       "votesmart": 55787,
-      "fec": [
-        "H0RI02139"
-      ],
+      "fec": ["H0RI02139"],
       "cspan": 86608,
       "wikipedia": "James Langevin",
       "house_history": 17296,
@@ -16401,10 +16105,7 @@
       "govtrack": 412464,
       "opensecrets": "N00031129",
       "votesmart": 124938,
-      "fec": [
-        "H0OK05114",
-        "S4OK00232"
-      ],
+      "fec": ["H0OK05114", "S4OK00232"],
       "cspan": 1033847,
       "wikipedia": "James Lankford",
       "house_history": 17326,
@@ -16489,9 +16190,7 @@
       "govtrack": 400232,
       "opensecrets": "N00009759",
       "votesmart": 56231,
-      "fec": [
-        "H0WA02080"
-      ],
+      "fec": ["H0WA02080"],
       "cspan": 86610,
       "wikipedia": "Rick Larsen",
       "house_history": 17298,
@@ -16634,9 +16333,7 @@
       "govtrack": 400233,
       "opensecrets": "N00000575",
       "votesmart": 17188,
-      "fec": [
-        "H8CT01046"
-      ],
+      "fec": ["H8CT01046"],
       "cspan": 36596,
       "wikipedia": "John B. Larson",
       "house_history": 17292,
@@ -16789,9 +16486,7 @@
       "govtrack": 412256,
       "opensecrets": "N00012233",
       "votesmart": 9926,
-      "fec": [
-        "H8OH05036"
-      ],
+      "fec": ["H8OH05036"],
       "cspan": 1028071,
       "wikipedia": "Bob Latta",
       "house_history": 17309,
@@ -16918,9 +16613,7 @@
       "opensecrets": "N00009918",
       "votesmart": 53353,
       "icpsr": 14307,
-      "fec": [
-        "S4VT00017"
-      ],
+      "fec": ["S4VT00017"],
       "cspan": 1552,
       "wikipedia": "Patrick Leahy",
       "ballotpedia": "Patrick Leahy",
@@ -17030,9 +16723,7 @@
       "govtrack": 400237,
       "opensecrets": "N00008046",
       "votesmart": 8315,
-      "fec": [
-        "H8CA09060"
-      ],
+      "fec": ["H8CA09060"],
       "cspan": 54579,
       "house_history": 17282,
       "wikipedia": "Barbara Lee",
@@ -17192,9 +16883,7 @@
       "govtrack": 412495,
       "opensecrets": "N00031696",
       "votesmart": 66395,
-      "fec": [
-        "S0UT00165"
-      ],
+      "fec": ["S0UT00165"],
       "cspan": 9267977,
       "wikipedia": "Mike Lee (American politician)",
       "ballotpedia": "Mike Lee",
@@ -17252,9 +16941,7 @@
       "govtrack": 400630,
       "opensecrets": "N00027239",
       "votesmart": 33692,
-      "fec": [
-        "H4IL03077"
-      ],
+      "fec": ["H4IL03077"],
       "cspan": 1013046,
       "wikipedia": "Dan Lipinski",
       "house_history": 17303,
@@ -17387,9 +17074,7 @@
       "govtrack": 412209,
       "opensecrets": "N00027741",
       "votesmart": 68964,
-      "fec": [
-        "H6IA02146"
-      ],
+      "fec": ["H6IA02146"],
       "cspan": 1022883,
       "wikipedia": "Dave Loebsack",
       "house_history": 17307,
@@ -17507,9 +17192,7 @@
       "govtrack": 400245,
       "opensecrets": "N00007479",
       "votesmart": 21899,
-      "fec": [
-        "H4CA16049"
-      ],
+      "fec": ["H4CA16049"],
       "cspan": 36520,
       "wikipedia": "Zoe Lofgren",
       "house_history": 17087,
@@ -17677,9 +17360,7 @@
       "govtrack": 412445,
       "opensecrets": "N00030676",
       "votesmart": 123401,
-      "fec": [
-        "H0MO07113"
-      ],
+      "fec": ["H0MO07113"],
       "cspan": 61880,
       "wikipedia": "Billy Long",
       "house_history": 17328,
@@ -17778,9 +17459,7 @@
       "opensecrets": "N00001024",
       "votesmart": 26982,
       "icpsr": 15612,
-      "fec": [
-        "H8NY20056"
-      ],
+      "fec": ["H8NY20056"],
       "cspan": 6110,
       "wikipedia": "Nita Lowey",
       "house_history": 17192,
@@ -17972,9 +17651,7 @@
       "govtrack": 400247,
       "opensecrets": "N00005559",
       "votesmart": 27032,
-      "fec": [
-        "H4OK06056"
-      ],
+      "fec": ["H4OK06056"],
       "cspan": 35692,
       "wikipedia": "Frank Lucas (Oklahoma politician)",
       "house_history": 17205,
@@ -18151,9 +17828,7 @@
       "govtrack": 412292,
       "opensecrets": "N00030026",
       "votesmart": 20400,
-      "fec": [
-        "H8MO09153"
-      ],
+      "fec": ["H8MO09153"],
       "cspan": 1031348,
       "wikipedia": "Blaine Luetkemeyer",
       "house_history": 17315,
@@ -18261,9 +17936,7 @@
       "govtrack": 412293,
       "opensecrets": "N00029562",
       "votesmart": 102842,
-      "fec": [
-        "H8NM03196"
-      ],
+      "fec": ["H8NM03196"],
       "cspan": 1031351,
       "wikipedia": "Ben Ray Luj\u00e1n",
       "house_history": 17317,
@@ -18379,10 +18052,7 @@
       "govtrack": 400249,
       "opensecrets": "N00013855",
       "votesmart": 4844,
-      "fec": [
-        "H2MA09072",
-        "S0MA00083"
-      ],
+      "fec": ["H2MA09072", "S0MA00083"],
       "cspan": 1000222,
       "wikipedia": "Stephen F. Lynch",
       "house_history": 17301,
@@ -18527,9 +18197,7 @@
       "govtrack": 400251,
       "opensecrets": "N00000078",
       "votesmart": 26978,
-      "fec": [
-        "H2NY14037"
-      ],
+      "fec": ["H2NY14037"],
       "cspan": 26162,
       "wikipedia": "Carolyn Maloney",
       "house_history": 17437,
@@ -18706,9 +18374,7 @@
       "govtrack": 400656,
       "opensecrets": "N00026710",
       "votesmart": 5549,
-      "fec": [
-        "H4TX24094"
-      ],
+      "fec": ["H4TX24094"],
       "cspan": 1013059,
       "wikipedia": "Kenny Marchant",
       "house_history": 18788,
@@ -18836,10 +18502,7 @@
       "opensecrets": "N00000270",
       "votesmart": 26900,
       "icpsr": 14435,
-      "fec": [
-        "H6MA07101",
-        "S4MA00028"
-      ],
+      "fec": ["H6MA07101", "S4MA00028"],
       "cspan": 260,
       "wikipedia": "Ed Markey",
       "house_history": 17493,
@@ -19074,9 +18737,7 @@
       "govtrack": 400663,
       "opensecrets": "N00027459",
       "votesmart": 28593,
-      "fec": [
-        "H6CA05195"
-      ],
+      "fec": ["H6CA05195"],
       "cspan": 26602,
       "wikipedia": "Doris Matsui",
       "house_history": 18797,
@@ -19208,10 +18869,7 @@
       "govtrack": 412190,
       "opensecrets": "N00028152",
       "votesmart": 28918,
-      "fec": [
-        "H6CA22125",
-        "H2CA23148"
-      ],
+      "fec": ["H6CA22125", "H2CA23148"],
       "cspan": 85231,
       "house_history": 18801,
       "wikipedia": "Kevin McCarthy (California politician)",
@@ -19366,9 +19024,7 @@
       "govtrack": 400654,
       "opensecrets": "N00026460",
       "votesmart": 49210,
-      "fec": [
-        "H4TX10093"
-      ],
+      "fec": ["H4TX10093"],
       "cspan": 1013056,
       "wikipedia": "Michael McCaul",
       "house_history": 18786,
@@ -19491,10 +19147,7 @@
       "govtrack": 412295,
       "opensecrets": "N00006863",
       "votesmart": 9715,
-      "fec": [
-        "H8CA04152",
-        "H6CA21135"
-      ],
+      "fec": ["H8CA04152", "H6CA21135"],
       "cspan": 30359,
       "house_history": 18824,
       "wikipedia": "Tom McClintock",
@@ -19602,9 +19255,7 @@
       "govtrack": 400259,
       "opensecrets": "N00012942",
       "votesmart": 3812,
-      "fec": [
-        "H0MN04049"
-      ],
+      "fec": ["H0MN04049"],
       "cspan": 86670,
       "wikipedia": "Betty McCollum",
       "house_history": 18758,
@@ -19749,9 +19400,7 @@
       "govtrack": 400263,
       "opensecrets": "N00000179",
       "votesmart": 552,
-      "fec": [
-        "H4MA03022"
-      ],
+      "fec": ["H4MA03022"],
       "cspan": 45976,
       "wikipedia": "Jim McGovern (American politician)",
       "house_history": 17711,
@@ -19912,9 +19561,7 @@
       "govtrack": 400644,
       "opensecrets": "N00026627",
       "votesmart": 21031,
-      "fec": [
-        "H4NC10047"
-      ],
+      "fec": ["H4NC10047"],
       "cspan": 1007062,
       "wikipedia": "Patrick McHenry",
       "house_history": 18784,
@@ -20041,9 +19688,7 @@
       "govtrack": 412487,
       "opensecrets": "N00031681",
       "votesmart": 117396,
-      "fec": [
-        "H0WV01072"
-      ],
+      "fec": ["H0WV01072"],
       "cspan": 9269013,
       "wikipedia": "David McKinley",
       "house_history": 18830,
@@ -20143,9 +19788,7 @@
       "govtrack": 400659,
       "opensecrets": "N00026314",
       "votesmart": 3217,
-      "fec": [
-        "H4WA05077"
-      ],
+      "fec": ["H4WA05077"],
       "cspan": 1013063,
       "wikipedia": "Cathy McMorris Rodgers",
       "house_history": 18790,
@@ -20271,9 +19914,7 @@
       "govtrack": 412189,
       "opensecrets": "N00026926",
       "votesmart": 29474,
-      "fec": [
-        "H4CA11081"
-      ],
+      "fec": ["H4CA11081"],
       "cspan": 1021667,
       "wikipedia": "Jerry McNerney",
       "house_history": 18803,
@@ -20390,9 +20031,7 @@
       "govtrack": 400271,
       "opensecrets": "N00001171",
       "votesmart": 4360,
-      "fec": [
-        "H8NY06048"
-      ],
+      "fec": ["H8NY06048"],
       "cspan": 53469,
       "wikipedia": "Gregory Meeks",
       "house_history": 18747,
@@ -20552,9 +20191,7 @@
       "govtrack": 400661,
       "opensecrets": "N00026914",
       "votesmart": 3457,
-      "fec": [
-        "H4WI04183"
-      ],
+      "fec": ["H4WI04183"],
       "cspan": 42548,
       "wikipedia": "Gwen Moore",
       "house_history": 18792,
@@ -20681,10 +20318,7 @@
       "govtrack": 400284,
       "opensecrets": "N00005282",
       "votesmart": 542,
-      "fec": [
-        "H6KS01096",
-        "S0KS00091"
-      ],
+      "fec": ["H6KS01096", "S0KS00091"],
       "cspan": 45469,
       "wikipedia": "Jerry Moran",
       "house_history": 18505,
@@ -20806,9 +20440,7 @@
       "govtrack": 300075,
       "opensecrets": "N00026050",
       "votesmart": 15841,
-      "fec": [
-        "S4AK00099"
-      ],
+      "fec": ["S4AK00099"],
       "cspan": 1004138,
       "wikipedia": "Lisa Murkowski",
       "house_history": 18778,
@@ -20896,10 +20528,7 @@
       "govtrack": 412194,
       "opensecrets": "N00027566",
       "votesmart": 17189,
-      "fec": [
-        "H6CT05124",
-        "S2CT00132"
-      ],
+      "fec": ["H6CT05124", "S2CT00132"],
       "cspan": 1021270,
       "wikipedia": "Chris Murphy",
       "house_history": 18809,
@@ -20993,9 +20622,7 @@
       "govtrack": 300076,
       "opensecrets": "N00007876",
       "votesmart": 53358,
-      "fec": [
-        "S2WA00189"
-      ],
+      "fec": ["S2WA00189"],
       "cspan": 25277,
       "wikipedia": "Patty Murray",
       "house_history": 18715,
@@ -21089,9 +20716,7 @@
       "govtrack": 400289,
       "opensecrets": "N00000939",
       "votesmart": 26980,
-      "fec": [
-        "H2NY17071"
-      ],
+      "fec": ["H2NY17071"],
       "cspan": 26159,
       "wikipedia": "Jerrold Nadler",
       "house_history": 18837,
@@ -21275,9 +20900,7 @@
       "govtrack": 400290,
       "opensecrets": "N00006789",
       "votesmart": 8393,
-      "fec": [
-        "H8CA34068"
-      ],
+      "fec": ["H8CA34068"],
       "cspan": 57873,
       "wikipedia": "Grace Napolitano",
       "house_history": 19055,
@@ -21430,9 +21053,7 @@
       "opensecrets": "N00000153",
       "votesmart": 26895,
       "icpsr": 15616,
-      "fec": [
-        "H8MA02041"
-      ],
+      "fec": ["H8MA02041"],
       "cspan": 6103,
       "wikipedia": "Richard Neal",
       "house_history": 18855,
@@ -21623,9 +21244,7 @@
       "govtrack": 400295,
       "opensecrets": "N00001692",
       "votesmart": 775,
-      "fec": [
-        "H0DC00058"
-      ],
+      "fec": ["H0DC00058"],
       "cspan": 882,
       "wikipedia": "Eleanor Holmes Norton",
       "house_history": 19016,
@@ -21808,9 +21427,7 @@
       "govtrack": 400297,
       "opensecrets": "N00007248",
       "votesmart": 16725,
-      "fec": [
-        "H8CA20059"
-      ],
+      "fec": ["H8CA20059"],
       "cspan": 1003553,
       "house_history": 19058,
       "wikipedia": "Devin Nunes",
@@ -21947,9 +21564,7 @@
       "govtrack": 412302,
       "opensecrets": "N00029285",
       "votesmart": 102008,
-      "fec": [
-        "H8TX22107"
-      ],
+      "fec": ["H8TX22107"],
       "cspan": 1031361,
       "wikipedia": "Pete Olson",
       "house_history": 19278,
@@ -22058,9 +21673,7 @@
       "govtrack": 412443,
       "opensecrets": "N00031958",
       "votesmart": 69521,
-      "fec": [
-        "H0MS04120"
-      ],
+      "fec": ["H0MS04120"],
       "cspan": 61886,
       "wikipedia": "Steven Palazzo",
       "house_history": 20039,
@@ -22160,10 +21773,7 @@
       "opensecrets": "N00000781",
       "votesmart": 26951,
       "icpsr": 15454,
-      "fec": [
-        "H8NJ03073",
-        "S6NJ00263"
-      ],
+      "fec": ["H8NJ03073", "S6NJ00263"],
       "cspan": 6107,
       "wikipedia": "Frank Pallone",
       "house_history": 19321,
@@ -22363,9 +21973,7 @@
       "govtrack": 400309,
       "opensecrets": "N00000751",
       "votesmart": 478,
-      "fec": [
-        "H6NJ08118"
-      ],
+      "fec": ["H6NJ08118"],
       "cspan": 45543,
       "wikipedia": "Bill Pascrell",
       "house_history": 19391,
@@ -22527,9 +22135,7 @@
       "govtrack": 412492,
       "opensecrets": "N00030836",
       "votesmart": 117285,
-      "fec": [
-        "S0KY00156"
-      ],
+      "fec": ["S0KY00156"],
       "cspan": 9265241,
       "wikipedia": "Rand Paul",
       "ballotpedia": "Rand Paul",
@@ -22596,9 +22202,7 @@
       "opensecrets": "N00007360",
       "votesmart": 26732,
       "icpsr": 15448,
-      "fec": [
-        "H8CA05035"
-      ],
+      "fec": ["H8CA05035"],
       "cspan": 6153,
       "wikipedia": "Nancy Pelosi",
       "house_history": 19519,
@@ -22834,9 +22438,7 @@
       "govtrack": 412192,
       "opensecrets": "N00027510",
       "votesmart": 2653,
-      "fec": [
-        "H6CO07023"
-      ],
+      "fec": ["H6CO07023"],
       "cspan": 1021382,
       "wikipedia": "Ed Perlmutter",
       "house_history": 20024,
@@ -22954,10 +22556,7 @@
       "govtrack": 412305,
       "opensecrets": "N00029277",
       "votesmart": 8749,
-      "fec": [
-        "H8MI09068",
-        "S4MI00355"
-      ],
+      "fec": ["H8MI09068", "S4MI00355"],
       "cspan": 50199,
       "wikipedia": "Gary Peters",
       "house_history": 20028,
@@ -23041,9 +22640,7 @@
       "govtrack": 400316,
       "opensecrets": "N00004558",
       "votesmart": 26926,
-      "fec": [
-        "H2MN07014"
-      ],
+      "fec": ["H2MN07014"],
       "cspan": 23978,
       "wikipedia": "Collin Peterson",
       "house_history": 19595,
@@ -23228,10 +22825,7 @@
       "govtrack": 412307,
       "opensecrets": "N00013817",
       "votesmart": 6586,
-      "fec": [
-        "H8ME01120",
-        "S0ME00038"
-      ],
+      "fec": ["H8ME01120", "S0ME00038"],
       "cspan": 1002167,
       "wikipedia": "Chellie Pingree",
       "house_history": 20032,
@@ -23341,10 +22935,7 @@
       "govtrack": 400325,
       "opensecrets": "N00003682",
       "votesmart": 27008,
-      "fec": [
-        "S0OH00133",
-        "H4OH02032"
-      ],
+      "fec": ["S0OH00133", "H4OH02032"],
       "cspan": 31819,
       "house_history": 19838,
       "wikipedia": "Rob Portman",
@@ -23464,9 +23055,7 @@
       "govtrack": 412309,
       "opensecrets": "N00029662",
       "votesmart": 24280,
-      "fec": [
-        "H8FL15107"
-      ],
+      "fec": ["H8FL15107"],
       "cspan": 88959,
       "wikipedia": "Bill Posey",
       "house_history": 20036,
@@ -23576,9 +23165,7 @@
       "opensecrets": "N00002260",
       "votesmart": 119,
       "icpsr": 15438,
-      "fec": [
-        "H6NC04037"
-      ],
+      "fec": ["H6NC04037"],
       "cspan": 6748,
       "wikipedia": "David Price (American politician)",
       "house_history": 19927,
@@ -23770,9 +23357,7 @@
       "govtrack": 412331,
       "opensecrets": "N00030581",
       "votesmart": 83310,
-      "fec": [
-        "H0IL05096"
-      ],
+      "fec": ["H0IL05096"],
       "cspan": 9263344,
       "wikipedia": "Mike Quigley (politician)",
       "house_history": 20072,
@@ -23881,9 +23466,7 @@
       "govtrack": 412393,
       "opensecrets": "N00030949",
       "votesmart": 127046,
-      "fec": [
-        "H0NY29054"
-      ],
+      "fec": ["H0NY29054"],
       "cspan": 623468,
       "wikipedia": "Tom Reed (politician)",
       "house_history": 20811,
@@ -23991,9 +23574,7 @@
       "govtrack": 412432,
       "opensecrets": "N00030184",
       "votesmart": 35384,
-      "fec": [
-        "H8LA02054"
-      ],
+      "fec": ["H8LA02054"],
       "cspan": 62391,
       "wikipedia": "Cedric Richmond",
       "house_history": 20816,
@@ -24093,9 +23674,7 @@
       "govtrack": 412394,
       "opensecrets": "N00030768",
       "votesmart": 71604,
-      "fec": [
-        "H0AL02087"
-      ],
+      "fec": ["H0AL02087"],
       "cspan": 61712,
       "wikipedia": "Martha Roby",
       "house_history": 20821,
@@ -24194,9 +23773,7 @@
       "govtrack": 412310,
       "opensecrets": "N00028463",
       "votesmart": 65306,
-      "fec": [
-        "H6TN01388"
-      ],
+      "fec": ["H6TN01388"],
       "cspan": 1031360,
       "wikipedia": "Phil Roe (politician)",
       "house_history": 20807,
@@ -24303,9 +23880,7 @@
       "opensecrets": "N00003473",
       "votesmart": 26875,
       "icpsr": 14854,
-      "fec": [
-        "H0KY05015"
-      ],
+      "fec": ["H0KY05015"],
       "cspan": 6739,
       "wikipedia": "Hal Rogers",
       "house_history": 20573,
@@ -24529,9 +24104,7 @@
       "govtrack": 400341,
       "opensecrets": "N00024759",
       "votesmart": 5705,
-      "fec": [
-        "H2AL03032"
-      ],
+      "fec": ["H2AL03032"],
       "cspan": 1014740,
       "wikipedia": "Mike Rogers (Alabama politician)",
       "house_history": 20795,
@@ -24667,9 +24240,7 @@
       "govtrack": 400347,
       "opensecrets": "N00006671",
       "votesmart": 26766,
-      "fec": [
-        "H2CA33048"
-      ],
+      "fec": ["H2CA33048"],
       "cspan": 26136,
       "wikipedia": "Lucille Roybal-Allard",
       "house_history": 20686,
@@ -24851,9 +24422,7 @@
       "govtrack": 412491,
       "opensecrets": "N00030612",
       "votesmart": 1601,
-      "fec": [
-        "S0FL00338"
-      ],
+      "fec": ["S0FL00338"],
       "cspan": 87599,
       "wikipedia": "Marco Rubio",
       "ballotpedia": "Marco Rubio",
@@ -24913,9 +24482,7 @@
       "govtrack": 400349,
       "opensecrets": "N00025482",
       "votesmart": 36130,
-      "fec": [
-        "H2MD02160"
-      ],
+      "fec": ["H2MD02160"],
       "cspan": 49155,
       "wikipedia": "Dutch Ruppersberger",
       "house_history": 20797,
@@ -25051,9 +24618,7 @@
       "govtrack": 400350,
       "opensecrets": "N00004887",
       "votesmart": 26831,
-      "fec": [
-        "H2IL01042"
-      ],
+      "fec": ["H2IL01042"],
       "cspan": 26127,
       "wikipedia": "Bobby Rush",
       "house_history": 20721,
@@ -25230,9 +24795,7 @@
       "govtrack": 400352,
       "opensecrets": "N00025280",
       "votesmart": 45638,
-      "fec": [
-        "H2OH17109"
-      ],
+      "fec": ["H2OH17109"],
       "cspan": 1003608,
       "wikipedia": "Tim Ryan (politician)",
       "house_history": 20799,
@@ -25369,9 +24932,7 @@
       "govtrack": 412312,
       "opensecrets": "N00030418",
       "votesmart": 110903,
-      "fec": [
-        "H8MP00041"
-      ],
+      "fec": ["H8MP00041"],
       "cspan": 1031366,
       "wikipedia": "Gregorio Sablan",
       "maplight": 794,
@@ -25492,9 +25053,7 @@
       "govtrack": 412212,
       "opensecrets": "N00027751",
       "votesmart": 66575,
-      "fec": [
-        "H6MD03292"
-      ],
+      "fec": ["H6MD03292"],
       "cspan": 1022884,
       "wikipedia": "John Sarbanes",
       "maplight": 697,
@@ -25618,9 +25177,7 @@
       "govtrack": 412261,
       "opensecrets": "N00009660",
       "votesmart": 9026,
-      "fec": [
-        "H0LA01087"
-      ],
+      "fec": ["H0LA01087"],
       "cspan": 1015311,
       "wikipedia": "Steve Scalise",
       "ballotpedia": "Steve Scalise",
@@ -25764,9 +25321,7 @@
       "govtrack": 400360,
       "opensecrets": "N00004724",
       "votesmart": 6387,
-      "fec": [
-        "H8IL09067"
-      ],
+      "fec": ["H8IL09067"],
       "cspan": 57874,
       "wikipedia": "Jan Schakowsky",
       "ballotpedia": "Jan Schakowsky",
@@ -25920,9 +25475,7 @@
       "govtrack": 400361,
       "opensecrets": "N00009585",
       "votesmart": 9489,
-      "fec": [
-        "H0CA27085"
-      ],
+      "fec": ["H0CA27085"],
       "cspan": 90167,
       "wikipedia": "Adam Schiff",
       "ballotpedia": "Adam Schiff",
@@ -26067,9 +25620,7 @@
       "govtrack": 412315,
       "opensecrets": "N00030071",
       "votesmart": 10813,
-      "fec": [
-        "H8OR05107"
-      ],
+      "fec": ["H8OR05107"],
       "cspan": 1031358,
       "wikipedia": "Kurt Schrader",
       "ballotpedia": "Kurt Schrader",
@@ -26180,10 +25731,7 @@
       "opensecrets": "N00001093",
       "votesmart": 26976,
       "icpsr": 14858,
-      "fec": [
-        "S8NY00082",
-        "H0NY16010"
-      ],
+      "fec": ["S8NY00082", "H0NY16010"],
       "cspan": 5929,
       "wikipedia": "Chuck Schumer",
       "ballotpedia": "Chuck Schumer",
@@ -26346,10 +25894,7 @@
       "govtrack": 412399,
       "opensecrets": "N00006460",
       "votesmart": 106387,
-      "fec": [
-        "H4AZ06045",
-        "H8AZ05097"
-      ],
+      "fec": ["H4AZ06045", "H8AZ05097"],
       "cspan": 5205,
       "wikipedia": "David Schweikert",
       "ballotpedia": "David Schweikert",
@@ -26447,9 +25992,7 @@
       "govtrack": 412417,
       "opensecrets": "N00032457",
       "votesmart": 11812,
-      "fec": [
-        "H0GA08099"
-      ],
+      "fec": ["H0GA08099"],
       "cspan": 623344,
       "wikipedia": "Austin Scott (politician)",
       "ballotpedia": "Austin Scott",
@@ -26548,9 +26091,7 @@
       "govtrack": 400363,
       "opensecrets": "N00024871",
       "votesmart": 7826,
-      "fec": [
-        "H2GA13012"
-      ],
+      "fec": ["H2GA13012"],
       "cspan": 1003567,
       "wikipedia": "David Scott (Georgia politician)",
       "ballotpedia": "David Scott (Georgia)",
@@ -26686,9 +26227,7 @@
       "govtrack": 400364,
       "opensecrets": "N00002147",
       "votesmart": 27117,
-      "fec": [
-        "H6VA01117"
-      ],
+      "fec": ["H6VA01117"],
       "cspan": 25888,
       "wikipedia": "Bobby Scott (politician)",
       "ballotpedia": "Robert C. Scott",
@@ -26867,10 +26406,7 @@
       "govtrack": 412471,
       "opensecrets": "N00031782",
       "votesmart": 11940,
-      "fec": [
-        "H0SC01279",
-        "S4SC00240"
-      ],
+      "fec": ["H0SC01279", "S4SC00240"],
       "cspan": 623506,
       "wikipedia": "Tim Scott",
       "ballotpedia": "Tim Scott",
@@ -26962,9 +26498,7 @@
       "opensecrets": "N00004291",
       "votesmart": 27142,
       "icpsr": 14657,
-      "fec": [
-        "H8WI09050"
-      ],
+      "fec": ["H8WI09050"],
       "cspan": 1507,
       "wikipedia": "Jim Sensenbrenner",
       "ballotpedia": "Jim Sensenbrenner",
@@ -27198,9 +26732,7 @@
       "opensecrets": "N00001813",
       "votesmart": 26981,
       "icpsr": 29134,
-      "fec": [
-        "H0NY18065"
-      ],
+      "fec": ["H0NY18065"],
       "cspan": 14306,
       "wikipedia": "Jos\u00e9 E. Serrano",
       "maplight": 457,
@@ -27392,9 +26924,7 @@
       "govtrack": 412396,
       "opensecrets": "N00030622",
       "votesmart": 121621,
-      "fec": [
-        "H0AL07086"
-      ],
+      "fec": ["H0AL07086"],
       "cspan": 623257,
       "wikipedia": "Terri Sewell",
       "ballotpedia": "Terri Sewell",
@@ -27496,9 +27026,7 @@
       "opensecrets": "N00009920",
       "votesmart": 53266,
       "icpsr": 94659,
-      "fec": [
-        "S6AL00013"
-      ],
+      "fec": ["S6AL00013"],
       "cspan": 1859,
       "wikipedia": "Richard Shelby",
       "ballotpedia": "Richard Shelby",
@@ -27637,9 +27165,7 @@
       "govtrack": 400371,
       "opensecrets": "N00006897",
       "votesmart": 142,
-      "fec": [
-        "H6CA24113"
-      ],
+      "fec": ["H6CA24113"],
       "cspan": 45124,
       "wikipedia": "Brad Sherman",
       "maplight": 462,
@@ -27799,9 +27325,7 @@
       "govtrack": 400373,
       "opensecrets": "N00004961",
       "votesmart": 246,
-      "fec": [
-        "H2IL20042"
-      ],
+      "fec": ["H2IL20042"],
       "cspan": 30623,
       "wikipedia": "John Shimkus",
       "ballotpedia": "John M. Shimkus",
@@ -27962,9 +27486,7 @@
       "govtrack": 400376,
       "opensecrets": "N00006263",
       "votesmart": 2917,
-      "fec": [
-        "H8ID02064"
-      ],
+      "fec": ["H8ID02064"],
       "cspan": 57889,
       "wikipedia": "Mike Simpson",
       "ballotpedia": "Michael K. Simpson",
@@ -28118,9 +27640,7 @@
       "govtrack": 412186,
       "opensecrets": "N00027523",
       "votesmart": 22510,
-      "fec": [
-        "H6NJ13191"
-      ],
+      "fec": ["H6NJ13191"],
       "cspan": 1022293,
       "wikipedia": "Albio Sires",
       "ballotpedia": "Albio Sires",
@@ -28246,9 +27766,7 @@
       "govtrack": 400379,
       "opensecrets": "N00007833",
       "votesmart": 845,
-      "fec": [
-        "H6WA09025"
-      ],
+      "fec": ["H6WA09025"],
       "cspan": 44329,
       "wikipedia": "Adam Smith (politician)",
       "ballotpedia": "Adam Smith",
@@ -28408,9 +27926,7 @@
       "govtrack": 412217,
       "opensecrets": "N00027623",
       "votesmart": 21284,
-      "fec": [
-        "H6NE03115"
-      ],
+      "fec": ["H6NE03115"],
       "cspan": 1022845,
       "wikipedia": "Adrian Smith (politician)",
       "ballotpedia": "Adrian Smith",
@@ -28529,9 +28045,7 @@
       "opensecrets": "N00009816",
       "votesmart": 26952,
       "icpsr": 14863,
-      "fec": [
-        "H8NJ04014"
-      ],
+      "fec": ["H8NJ04014"],
       "cspan": 6411,
       "wikipedia": "Chris Smith (New Jersey politician)",
       "maplight": 469,
@@ -28755,9 +28269,7 @@
       "govtrack": 412259,
       "opensecrets": "N00029649",
       "votesmart": 8425,
-      "fec": [
-        "H8CA12171"
-      ],
+      "fec": ["H8CA12171"],
       "cspan": 1027627,
       "wikipedia": "Jackie Speier",
       "maplight": 740,
@@ -28874,9 +28386,7 @@
       "govtrack": 412461,
       "opensecrets": "N00029574",
       "votesmart": 45333,
-      "fec": [
-        "H8OH15076"
-      ],
+      "fec": ["H8OH15076"],
       "cspan": 62320,
       "wikipedia": "Steve Stivers",
       "ballotpedia": "Steve Stivers",
@@ -28975,9 +28485,7 @@
       "govtrack": 400355,
       "opensecrets": "N00024870",
       "votesmart": 29674,
-      "fec": [
-        "H2CA39078"
-      ],
+      "fec": ["H2CA39078"],
       "cspan": 1003554,
       "wikipedia": "Linda S\u00e1nchez",
       "maplight": 448,
@@ -29119,9 +28627,7 @@
       "govtrack": 400402,
       "opensecrets": "N00003288",
       "votesmart": 26929,
-      "fec": [
-        "H4MS02068"
-      ],
+      "fec": ["H4MS02068"],
       "cspan": 7304,
       "wikipedia": "Bennie Thompson",
       "maplight": 490,
@@ -29297,9 +28803,7 @@
       "govtrack": 400403,
       "opensecrets": "N00007419",
       "votesmart": 3564,
-      "fec": [
-        "H8CA01109"
-      ],
+      "fec": ["H8CA01109"],
       "cspan": 57872,
       "wikipedia": "Mike Thompson (California politician)",
       "maplight": 489,
@@ -29451,9 +28955,7 @@
       "govtrack": 412317,
       "opensecrets": "N00029736",
       "votesmart": 24046,
-      "fec": [
-        "H8PA05071"
-      ],
+      "fec": ["H8PA05071"],
       "cspan": 1031359,
       "wikipedia": "Glenn Thompson (politician)",
       "maplight": 799,
@@ -29561,9 +29063,7 @@
       "govtrack": 400404,
       "opensecrets": "N00006052",
       "votesmart": 21706,
-      "fec": [
-        "H4TX13014"
-      ],
+      "fec": ["H4TX13014"],
       "cspan": 36814,
       "wikipedia": "Mac Thornberry",
       "ballotpedia": "Mac Thornberry",
@@ -29729,10 +29229,7 @@
       "govtrack": 400546,
       "opensecrets": "N00004572",
       "votesmart": 398,
-      "fec": [
-        "S2SD00068",
-        "H6SD00085"
-      ],
+      "fec": ["S2SD00068", "H6SD00085"],
       "cspan": 45552,
       "wikipedia": "John Thune",
       "ballotpedia": "John Thune",
@@ -29833,9 +29330,7 @@
       "govtrack": 412405,
       "opensecrets": "N00027509",
       "votesmart": 65403,
-      "fec": [
-        "H6CO03139"
-      ],
+      "fec": ["H6CO03139"],
       "cspan": 60384,
       "wikipedia": "Scott Tipton",
       "ballotpedia": "Scott Tipton",
@@ -29935,9 +29430,7 @@
       "govtrack": 412319,
       "opensecrets": "N00030196",
       "votesmart": 4403,
-      "fec": [
-        "H8NY21203"
-      ],
+      "fec": ["H8NY21203"],
       "cspan": 1031353,
       "wikipedia": "Paul Tonko",
       "maplight": 801,
@@ -30046,10 +29539,7 @@
       "govtrack": 400408,
       "opensecrets": "N00001489",
       "votesmart": 24096,
-      "fec": [
-        "S4PA00121",
-        "H8PA15096"
-      ],
+      "fec": ["S4PA00121", "H8PA15096"],
       "cspan": 7958,
       "wikipedia": "Pat Toomey",
       "ballotpedia": "Pat Toomey",
@@ -30137,10 +29627,7 @@
       "govtrack": 400411,
       "opensecrets": "N00025175",
       "votesmart": 45519,
-      "fec": [
-        "H2OH03067",
-        "H2OH03091"
-      ],
+      "fec": ["H2OH03067", "H2OH03091"],
       "cspan": 1003607,
       "wikipedia": "Mike Turner",
       "ballotpedia": "Michael R. Turner",
@@ -30278,9 +29765,7 @@
       "opensecrets": "N00004133",
       "votesmart": 26906,
       "icpsr": 15446,
-      "fec": [
-        "H6MI04113"
-      ],
+      "fec": ["H6MI04113"],
       "cspan": 12127,
       "house_history": 20868,
       "wikipedia": "Fred Upton",
@@ -30480,10 +29965,7 @@
       "govtrack": 400415,
       "opensecrets": "N00013820",
       "votesmart": 6098,
-      "fec": [
-        "H2MD08126",
-        "S6MD03441"
-      ],
+      "fec": ["H2MD08126", "S6MD03441"],
       "cspan": 20756,
       "house_history": 21032,
       "wikipedia": "Chris Van Hollen",
@@ -30608,9 +30090,7 @@
       "govtrack": 400416,
       "opensecrets": "N00001102",
       "votesmart": 26975,
-      "fec": [
-        "H2NY00010"
-      ],
+      "fec": ["H2NY00010"],
       "cspan": 26160,
       "wikipedia": "Nydia Vel\u00e1zquez",
       "house_history": 20972,
@@ -30783,9 +30263,7 @@
       "opensecrets": "N00003813",
       "votesmart": 26851,
       "icpsr": 15124,
-      "fec": [
-        "H4IN01012"
-      ],
+      "fec": ["H4IN01012"],
       "cspan": 6785,
       "wikipedia": "Pete Visclosky",
       "house_history": 21005,
@@ -30993,9 +30471,7 @@
       "govtrack": 412213,
       "opensecrets": "N00026368",
       "votesmart": 8618,
-      "fec": [
-        "H4MI07103"
-      ],
+      "fec": ["H4MI07103"],
       "cspan": 1022844,
       "wikipedia": "Tim Walberg",
       "ballotpedia": "Tim Walberg",
@@ -31103,9 +30579,7 @@
       "govtrack": 400419,
       "opensecrets": "N00007690",
       "votesmart": 2979,
-      "fec": [
-        "H6OR02116"
-      ],
+      "fec": ["H6OR02116"],
       "cspan": 57892,
       "wikipedia": "Greg Walden",
       "ballotpedia": "Greg Walden",
@@ -31258,9 +30732,7 @@
       "govtrack": 400623,
       "opensecrets": "N00026106",
       "votesmart": 24301,
-      "fec": [
-        "H4FL20023"
-      ],
+      "fec": ["H4FL20023"],
       "cspan": 86882,
       "wikipedia": "Debbie Wasserman Schultz",
       "ballotpedia": "Debbie Wasserman Schultz",
@@ -31386,9 +30858,7 @@
       "govtrack": 400422,
       "opensecrets": "N00006690",
       "votesmart": 26759,
-      "fec": [
-        "H4CA23011"
-      ],
+      "fec": ["H4CA23011"],
       "cspan": 1953,
       "wikipedia": "Maxine Waters",
       "ballotpedia": "Maxine Waters",
@@ -31572,10 +31042,7 @@
       "govtrack": 412410,
       "opensecrets": "N00026335",
       "votesmart": 24302,
-      "fec": [
-        "H0FL08208",
-        "S4FL00256"
-      ],
+      "fec": ["H0FL08208", "S4FL00256"],
       "cspan": 30504,
       "wikipedia": "Daniel Webster (Florida politician)",
       "ballotpedia": "Daniel Webster",
@@ -31674,10 +31141,7 @@
       "govtrack": 412239,
       "opensecrets": "N00000515",
       "votesmart": 51272,
-      "fec": [
-        "H6VT00160",
-        "H8VT00034"
-      ],
+      "fec": ["H6VT00160", "H8VT00034"],
       "cspan": 1019990,
       "wikipedia": "Peter Welch",
       "ballotpedia": "Peter Welch",
@@ -31795,9 +31259,7 @@
       "govtrack": 400433,
       "opensecrets": "N00024809",
       "votesmart": 3985,
-      "fec": [
-        "H2SC02059"
-      ],
+      "fec": ["H2SC02059"],
       "cspan": 1002567,
       "wikipedia": "Joe Wilson (American politician)",
       "ballotpedia": "Joe Wilson",
@@ -31942,9 +31404,7 @@
       "govtrack": 412412,
       "opensecrets": "N00030650",
       "votesmart": 17319,
-      "fec": [
-        "H0FL17068"
-      ],
+      "fec": ["H0FL17068"],
       "cspan": 87016,
       "wikipedia": "Frederica Wilson",
       "ballotpedia": "Frederica Wilson",
@@ -32044,9 +31504,7 @@
       "govtrack": 412255,
       "opensecrets": "N00029459",
       "votesmart": 58133,
-      "fec": [
-        "H8VA01147"
-      ],
+      "fec": ["H8VA01147"],
       "cspan": 1028089,
       "wikipedia": "Rob Wittman",
       "ballotpedia": "Robert J. Wittman",
@@ -32165,9 +31623,7 @@
       "govtrack": 412402,
       "opensecrets": "N00031857",
       "votesmart": 71815,
-      "fec": [
-        "H0AR03055"
-      ],
+      "fec": ["H0AR03055"],
       "cspan": 1033625,
       "wikipedia": "Steve Womack",
       "ballotpedia": "Steve Womack",
@@ -32266,9 +31722,7 @@
       "govtrack": 412416,
       "opensecrets": "N00032416",
       "votesmart": 122251,
-      "fec": [
-        "H0GA07133"
-      ],
+      "fec": ["H0GA07133"],
       "cspan": 623342,
       "wikipedia": "Rob Woodall",
       "maplight": 1428,
@@ -32368,10 +31822,7 @@
       "opensecrets": "N00007724",
       "votesmart": 27036,
       "icpsr": 14871,
-      "fec": [
-        "S6OR00110",
-        "H0OR03026"
-      ],
+      "fec": ["S6OR00110", "H0OR03026"],
       "cspan": 1962,
       "wikipedia": "Ron Wyden",
       "ballotpedia": "Ron Wyden",
@@ -32521,9 +31972,7 @@
       "govtrack": 412211,
       "opensecrets": "N00028073",
       "votesmart": 58579,
-      "fec": [
-        "H6KY03124"
-      ],
+      "fec": ["H6KY03124"],
       "cspan": 1021662,
       "house_history": 21106,
       "wikipedia": "John Yarmuth",
@@ -32639,9 +32088,7 @@
       "opensecrets": "N00007999",
       "votesmart": 26717,
       "icpsr": 14066,
-      "fec": [
-        "H6AK00045"
-      ],
+      "fec": ["H6AK00045"],
       "cspan": 1897,
       "wikipedia": "Don Young",
       "house_history": 21071,
@@ -32897,10 +32344,7 @@
       "govtrack": 412428,
       "opensecrets": "N00030670",
       "votesmart": 120345,
-      "fec": [
-        "H0IN09070",
-        "S6IN00191"
-      ],
+      "fec": ["H0IN09070", "S6IN00191"],
       "cspan": 1033743,
       "wikipedia": "Todd Young",
       "house_history": 21109,
@@ -32989,11 +32433,7 @@
       "govtrack": 412500,
       "opensecrets": "N00031177",
       "votesmart": 12537,
-      "fec": [
-        "H2NV02395",
-        "H1NV02017",
-        "S0NV00237"
-      ],
+      "fec": ["H2NV02395", "H1NV02017", "S0NV00237"],
       "cspan": 62817,
       "wikipedia": "Mark Amodei",
       "house_history": 8772,
@@ -33094,9 +32534,7 @@
       "govtrack": 412501,
       "opensecrets": "N00033474",
       "votesmart": 59641,
-      "fec": [
-        "H2OR01133"
-      ],
+      "fec": ["H2OR01133"],
       "cspan": 63966,
       "wikipedia": "Suzanne Bonamici",
       "house_history": 10443,
@@ -33197,9 +32635,7 @@
       "thomas": "02096",
       "cspan": 1033929,
       "wikipedia": "Suzan DelBene",
-      "fec": [
-        "H0WA08046"
-      ],
+      "fec": ["H0WA08046"],
       "ballotpedia": "Suzan DelBene",
       "maplight": 1686,
       "icpsr": 31101,
@@ -33298,9 +32734,7 @@
       "thomas": "02094",
       "cspan": 79951,
       "wikipedia": "Thomas Massie",
-      "fec": [
-        "H2KY04121"
-      ],
+      "fec": ["H2KY04121"],
       "ballotpedia": "Thomas Massie",
       "maplight": 1684,
       "icpsr": 31102,
@@ -33397,9 +32831,7 @@
       "thomas": "02097",
       "cspan": 65639,
       "wikipedia": "Donald Payne Jr.",
-      "fec": [
-        "H2NJ10154"
-      ],
+      "fec": ["H2NJ10154"],
       "maplight": 1687,
       "icpsr": 31103,
       "wikidata": "Q1240224",
@@ -33502,10 +32934,7 @@
       "govtrack": 412507,
       "cspan": 87784,
       "wikipedia": "Brian Schatz",
-      "fec": [
-        "S4HI00136",
-        "H6HI02244"
-      ],
+      "fec": ["S4HI00136", "H6HI02244"],
       "ballotpedia": "Brian E. Schatz",
       "maplight": 1728,
       "icpsr": 41112,
@@ -33578,10 +33007,7 @@
       "govtrack": 412257,
       "opensecrets": "N00029139",
       "votesmart": 101632,
-      "fec": [
-        "H8IL14067",
-        "H2IL11124"
-      ],
+      "fec": ["H8IL14067", "H2IL11124"],
       "cspan": 1027346,
       "wikipedia": "Bill Foster (politician)",
       "house_history": 13555,
@@ -33685,9 +33111,7 @@
       "govtrack": 412318,
       "opensecrets": "N00030191",
       "votesmart": 2629,
-      "fec": [
-        "H8NV03036"
-      ],
+      "fec": ["H8NV03036"],
       "cspan": 1021622,
       "wikipedia": "Dina Titus",
       "ballotpedia": "Dina Titus",
@@ -33781,10 +33205,7 @@
       "cspan": 63928,
       "votesmart": 135651,
       "wikipedia": "Tom Cotton",
-      "fec": [
-        "H2AR04083",
-        "S4AR00103"
-      ],
+      "fec": ["H2AR04083", "S4AR00103"],
       "opensecrets": "N00033363",
       "ballotpedia": "Tom Cotton",
       "maplight": 1732,
@@ -33842,10 +33263,7 @@
       "opensecrets": "N00033983",
       "votesmart": 28338,
       "wikipedia": "Kyrsten Sinema",
-      "fec": [
-        "H2AZ09019",
-        "S8AZ00197"
-      ],
+      "fec": ["H2AZ09019", "S8AZ00197"],
       "ballotpedia": "Kyrsten Sinema",
       "maplight": 1733,
       "icpsr": 21300,
@@ -33932,10 +33350,7 @@
       "cspan": 68493,
       "votesmart": 29713,
       "wikipedia": "Doug LaMalfa",
-      "fec": [
-        "H2CA02142",
-        "H2CA01144"
-      ],
+      "fec": ["H2CA02142", "H2CA01144"],
       "opensecrets": "N00033987",
       "ballotpedia": "Doug LaMalfa",
       "maplight": 1734,
@@ -34020,9 +33435,7 @@
       "cspan": 622431,
       "votesmart": 59849,
       "wikipedia": "Jared Huffman",
-      "fec": [
-        "H2CA06259"
-      ],
+      "fec": ["H2CA06259"],
       "opensecrets": "N00033030",
       "ballotpedia": "Jared Huffman",
       "maplight": 1735,
@@ -34105,9 +33518,7 @@
       "bioguide": "B001287",
       "thomas": "02102",
       "cspan": 1033636,
-      "fec": [
-        "H0CA03078"
-      ],
+      "fec": ["H0CA03078"],
       "wikipedia": "Ami Bera",
       "opensecrets": "N00030717",
       "votesmart": 120030,
@@ -34195,9 +33606,7 @@
       "opensecrets": "N00034224",
       "votesmart": 58121,
       "wikipedia": "Paul Cook (politician)",
-      "fec": [
-        "H2CA08164"
-      ],
+      "fec": ["H2CA08164"],
       "ballotpedia": "Paul Cook",
       "maplight": 1737,
       "icpsr": 21305,
@@ -34280,9 +33689,7 @@
       "opensecrets": "N00033508",
       "votesmart": 129529,
       "wikipedia": "Eric Swalwell",
-      "fec": [
-        "H2CA15094"
-      ],
+      "fec": ["H2CA15094"],
       "ballotpedia": "Eric Swalwell",
       "maplight": 1738,
       "icpsr": 21306,
@@ -34359,9 +33766,7 @@
       "cspan": 79783,
       "votesmart": 59904,
       "wikipedia": "Julia Brownley",
-      "fec": [
-        "H2CA00120"
-      ],
+      "fec": ["H2CA00120"],
       "opensecrets": "N00034254",
       "ballotpedia": "Julia Brownley",
       "maplight": 1740,
@@ -34447,9 +33852,7 @@
       "cspan": 63934,
       "votesmart": 9754,
       "wikipedia": "Tony C\u00e1rdenas",
-      "fec": [
-        "H2CA28113"
-      ],
+      "fec": ["H2CA28113"],
       "opensecrets": "N00033373",
       "ballotpedia": "Tony Cardenas",
       "maplight": 1741,
@@ -34534,9 +33937,7 @@
       "cspan": 79727,
       "votesmart": 136407,
       "wikipedia": "Raul Ruiz (politician)",
-      "fec": [
-        "H2CA36439"
-      ],
+      "fec": ["H2CA36439"],
       "opensecrets": "N00033510",
       "ballotpedia": "Raul Ruiz",
       "maplight": 1743,
@@ -34620,9 +34021,7 @@
       "cspan": 2737,
       "votesmart": 22337,
       "wikipedia": "Mark Takano",
-      "fec": [
-        "H2CA43245"
-      ],
+      "fec": ["H2CA43245"],
       "opensecrets": "N00006701",
       "ballotpedia": "Mark Takano",
       "maplight": 1744,
@@ -34706,9 +34105,7 @@
       "cspan": 93815,
       "votesmart": 16469,
       "wikipedia": "Alan Lowenthal",
-      "fec": [
-        "H2CA00104"
-      ],
+      "fec": ["H2CA00104"],
       "opensecrets": "N00033274",
       "ballotpedia": "Alan Lowenthal",
       "maplight": 1745,
@@ -34794,9 +34191,7 @@
       "cspan": 8297,
       "votesmart": 29100,
       "wikipedia": "Juan Vargas",
-      "fec": [
-        "H2CA50026"
-      ],
+      "fec": ["H2CA50026"],
       "opensecrets": "N00007021",
       "ballotpedia": "Juan Vargas",
       "maplight": 1746,
@@ -34881,9 +34276,7 @@
       "cspan": 79661,
       "votesmart": 70351,
       "wikipedia": "Scott Peters (politician)",
-      "fec": [
-        "H2CA52089"
-      ],
+      "fec": ["H2CA52089"],
       "opensecrets": "N00033591",
       "ballotpedia": "Scott Peters",
       "maplight": 1747,
@@ -34969,9 +34362,7 @@
       "cspan": 63943,
       "votesmart": 137622,
       "wikipedia": "Ted Yoho",
-      "fec": [
-        "H2FL06109"
-      ],
+      "fec": ["H2FL06109"],
       "opensecrets": "N00033220",
       "ballotpedia": "Ted Yoho",
       "maplight": 1749,
@@ -35054,10 +34445,7 @@
       "cspan": 623714,
       "votesmart": 8102,
       "wikipedia": "Lois Frankel",
-      "fec": [
-        "H2FL14053",
-        "H2FL22080"
-      ],
+      "fec": ["H2FL14053", "H2FL22080"],
       "opensecrets": "N00002893",
       "ballotpedia": "Lois Frankel",
       "maplight": 1753,
@@ -35143,9 +34531,7 @@
       "cspan": 79719,
       "votesmart": 67851,
       "wikipedia": "Doug Collins (politician)",
-      "fec": [
-        "H2GA09150"
-      ],
+      "fec": ["H2GA09150"],
       "opensecrets": "N00033518",
       "ballotpedia": "Doug Collins",
       "maplight": 1755,
@@ -35231,9 +34617,7 @@
       "opensecrets": "N00033281",
       "votesmart": 129306,
       "wikipedia": "Tulsi Gabbard",
-      "fec": [
-        "H2HI02508"
-      ],
+      "fec": ["H2HI02508"],
       "ballotpedia": "Tulsi Gabbard",
       "maplight": 1756,
       "icpsr": 21324,
@@ -35319,10 +34703,7 @@
       "opensecrets": "N00027860",
       "votesmart": 57442,
       "wikipedia": "Tammy Duckworth",
-      "fec": [
-        "H6IL06141",
-        "S6IL00292"
-      ],
+      "fec": ["H6IL06141", "S6IL00292"],
       "ballotpedia": "Tammy Duckworth",
       "maplight": 1757,
       "icpsr": 21325,
@@ -35394,9 +34775,7 @@
       "opensecrets": "N00034784",
       "votesmart": 9622,
       "wikipedia": "Rodney Davis (politician)",
-      "fec": [
-        "H2IL13120"
-      ],
+      "fec": ["H2IL13120"],
       "ballotpedia": "Rodney Davis (Illinois)",
       "maplight": 1760,
       "icpsr": 21328,
@@ -35480,9 +34859,7 @@
       "opensecrets": "N00033390",
       "votesmart": 134964,
       "wikipedia": "Cheri Bustos",
-      "fec": [
-        "H2IL17071"
-      ],
+      "fec": ["H2IL17071"],
       "ballotpedia": "Cheri Bustos",
       "maplight": 1761,
       "icpsr": 21329,
@@ -35565,9 +34942,7 @@
       "bioguide": "W000813",
       "thomas": "02128",
       "cspan": 95005,
-      "fec": [
-        "H0IN02190"
-      ],
+      "fec": ["H0IN02190"],
       "wikipedia": "Jackie Walorski",
       "votesmart": 34205,
       "opensecrets": "N00031226",
@@ -35655,9 +35030,7 @@
       "cspan": 623720,
       "votesmart": 135988,
       "wikipedia": "Susan Brooks",
-      "fec": [
-        "H2IN05082"
-      ],
+      "fec": ["H2IN05082"],
       "opensecrets": "N00033495",
       "ballotpedia": "Susan Brooks",
       "maplight": 1763,
@@ -35743,9 +35116,7 @@
       "cspan": 61848,
       "votesmart": 117290,
       "wikipedia": "Andy Barr (American politician)",
-      "fec": [
-        "H0KY06104"
-      ],
+      "fec": ["H0KY06104"],
       "opensecrets": "N00031233",
       "ballotpedia": "Andy Barr",
       "maplight": 1765,
@@ -35830,9 +35201,7 @@
       "wikipedia": "Elizabeth Warren",
       "votesmart": 141272,
       "opensecrets": "N00033492",
-      "fec": [
-        "S2MA00170"
-      ],
+      "fec": ["S2MA00170"],
       "ballotpedia": "Elizabeth Warren",
       "maplight": 1766,
       "icpsr": 41301,
@@ -35891,9 +35260,7 @@
       "cspan": 79948,
       "votesmart": 141275,
       "wikipedia": "Joe Kennedy III",
-      "fec": [
-        "H2MA04073"
-      ],
+      "fec": ["H2MA04073"],
       "opensecrets": "N00034044",
       "ballotpedia": "Joseph Kennedy III",
       "maplight": 1767,
@@ -36004,9 +35371,7 @@
       "wikipedia": "Angus King",
       "opensecrets": "N00034580",
       "votesmart": 22381,
-      "fec": [
-        "S2ME00109"
-      ],
+      "fec": ["S2ME00109"],
       "ballotpedia": "Angus King",
       "maplight": 1769,
       "icpsr": 41300,
@@ -36066,9 +35431,7 @@
       "cspan": 623723,
       "votesmart": 136102,
       "wikipedia": "Dan Kildee",
-      "fec": [
-        "H2MI05119"
-      ],
+      "fec": ["H2MI05119"],
       "opensecrets": "N00033395",
       "ballotpedia": "Dan Kildee",
       "maplight": 1770,
@@ -36157,9 +35520,7 @@
       "bioguide": "W000812",
       "thomas": "02137",
       "cspan": 82702,
-      "fec": [
-        "H2MO02102"
-      ],
+      "fec": ["H2MO02102"],
       "wikipedia": "Ann Wagner",
       "votesmart": 136083,
       "opensecrets": "N00033106",
@@ -36245,10 +35606,7 @@
       "cspan": 1034037,
       "votesmart": 135720,
       "wikipedia": "Steve Daines",
-      "fec": [
-        "H2MT01060",
-        "S2MT00096"
-      ],
+      "fec": ["H2MT01060", "S2MT00096"],
       "opensecrets": "N00033054",
       "ballotpedia": "Steve Daines",
       "maplight": 1773,
@@ -36306,9 +35664,7 @@
       "cspan": 79622,
       "votesmart": 136448,
       "wikipedia": "Richard Hudson (American politician)",
-      "fec": [
-        "H2NC08185"
-      ],
+      "fec": ["H2NC08185"],
       "opensecrets": "N00033630",
       "ballotpedia": "Richard Hudson",
       "maplight": 1774,
@@ -36393,9 +35749,7 @@
       "cspan": 623728,
       "votesmart": 136462,
       "wikipedia": "George Holding",
-      "fec": [
-        "H2NC13110"
-      ],
+      "fec": ["H2NC13110"],
       "opensecrets": "N00033399",
       "ballotpedia": "George E.B. Holding",
       "maplight": 1777,
@@ -36480,11 +35834,7 @@
       "cspan": 7600,
       "votesmart": 444,
       "wikipedia": "Kevin Cramer",
-      "fec": [
-        "H0ND01026",
-        "H6ND00074",
-        "S8ND00120"
-      ],
+      "fec": ["H0ND01026", "H6ND00074", "S8ND00120"],
       "opensecrets": "N00004614",
       "ballotpedia": "Kevin Cramer",
       "maplight": 1779,
@@ -36573,9 +35923,7 @@
       "wikipedia": "Deb Fischer",
       "votesmart": 41963,
       "opensecrets": "N00033443",
-      "fec": [
-        "S2NE00094"
-      ],
+      "fec": ["S2NE00094"],
       "ballotpedia": "Deb Fischer",
       "maplight": 1780,
       "icpsr": 41302,
@@ -36635,9 +35983,7 @@
       "opensecrets": "N00030875",
       "votesmart": 122256,
       "wikipedia": "Ann McLane Kuster",
-      "fec": [
-        "H0NH02181"
-      ],
+      "fec": ["H0NH02181"],
       "ballotpedia": "Annie Kuster",
       "maplight": 1781,
       "icpsr": 21340,
@@ -36723,9 +36069,7 @@
       "cspan": 68411,
       "votesmart": 69157,
       "wikipedia": "Grace Meng",
-      "fec": [
-        "H2NY06116"
-      ],
+      "fec": ["H2NY06116"],
       "opensecrets": "N00034547",
       "ballotpedia": "Grace Meng",
       "maplight": 1784,
@@ -36808,9 +36152,7 @@
       "bioguide": "J000294",
       "thomas": "02149",
       "cspan": 79612,
-      "fec": [
-        "H2NY10092"
-      ],
+      "fec": ["H2NY10092"],
       "wikipedia": "Hakeem Jeffries",
       "votesmart": 55285,
       "opensecrets": "N00033640",
@@ -36903,9 +36245,7 @@
       "opensecrets": "N00034277",
       "votesmart": 139760,
       "wikipedia": "Sean Patrick Maloney",
-      "fec": [
-        "H2NY22139"
-      ],
+      "fec": ["H2NY22139"],
       "ballotpedia": "Sean Maloney",
       "maplight": 1786,
       "icpsr": 21344,
@@ -36987,9 +36327,7 @@
       "bioguide": "W000815",
       "thomas": "02152",
       "cspan": 1034044,
-      "fec": [
-        "H2OH02085"
-      ],
+      "fec": ["H2OH02085"],
       "wikipedia": "Brad Wenstrup",
       "votesmart": 135326,
       "opensecrets": "N00033310",
@@ -37072,9 +36410,7 @@
       "cspan": 67294,
       "votesmart": 2427,
       "wikipedia": "Joyce Beatty",
-      "fec": [
-        "H2OH03125"
-      ],
+      "fec": ["H2OH03125"],
       "opensecrets": "N00033904",
       "ballotpedia": "Joyce Beatty",
       "maplight": 1789,
@@ -37159,9 +36495,7 @@
       "cspan": 68561,
       "votesmart": 143052,
       "wikipedia": "David Joyce (politician)",
-      "fec": [
-        "H2OH14064"
-      ],
+      "fec": ["H2OH14064"],
       "opensecrets": "N00035007",
       "ballotpedia": "David Joyce",
       "maplight": 1790,
@@ -37247,9 +36581,7 @@
       "cspan": 1034045,
       "votesmart": 135898,
       "wikipedia": "Markwayne Mullin",
-      "fec": [
-        "H2OK02083"
-      ],
+      "fec": ["H2OK02083"],
       "opensecrets": "N00033410",
       "ballotpedia": "Markwayne Mullin",
       "maplight": 1792,
@@ -37334,9 +36666,7 @@
       "cspan": 79873,
       "votesmart": 59980,
       "wikipedia": "Scott Perry (politician)",
-      "fec": [
-        "H2PA04135"
-      ],
+      "fec": ["H2PA04135"],
       "opensecrets": "N00034120",
       "ballotpedia": "Scott Perry",
       "maplight": 1793,
@@ -37419,9 +36749,7 @@
       "bioguide": "C001090",
       "thomas": "02159",
       "cspan": 79865,
-      "fec": [
-        "H2PA17079"
-      ],
+      "fec": ["H2PA17079"],
       "wikipedia": "Matt Cartwright",
       "votesmart": 136236,
       "opensecrets": "N00034128",
@@ -37510,9 +36838,7 @@
       "opensecrets": "N00033832",
       "votesmart": 132382,
       "wikipedia": "Tom Rice",
-      "fec": [
-        "H2SC07066"
-      ],
+      "fec": ["H2SC07066"],
       "ballotpedia": "Tom Rice (South Carolina)",
       "maplight": 1796,
       "icpsr": 21359,
@@ -37596,9 +36922,7 @@
       "wikipedia": "Ted Cruz",
       "votesmart": 135705,
       "opensecrets": "N00033085",
-      "fec": [
-        "S2TX00312"
-      ],
+      "fec": ["S2TX00312"],
       "ballotpedia": "Ted Cruz",
       "maplight": 1797,
       "icpsr": 41304,
@@ -37652,9 +36976,7 @@
       "bioguide": "W000814",
       "thomas": "02161",
       "cspan": 79698,
-      "fec": [
-        "H2TX14149"
-      ],
+      "fec": ["H2TX14149"],
       "wikipedia": "Randy Weber",
       "votesmart": 102026,
       "opensecrets": "N00033539",
@@ -37740,9 +37062,7 @@
       "bioguide": "C001091",
       "thomas": "02163",
       "cspan": 63974,
-      "fec": [
-        "H2TX35011"
-      ],
+      "fec": ["H2TX35011"],
       "wikipedia": "Joaqu\u00edn Castro",
       "votesmart": 49227,
       "opensecrets": "N00033316",
@@ -37827,10 +37147,7 @@
       "bioguide": "W000816",
       "thomas": "02165",
       "cspan": 623742,
-      "fec": [
-        "H2TX33040",
-        "S2TX00270"
-      ],
+      "fec": ["H2TX33040", "S2TX00270"],
       "votesmart": 50112,
       "wikipedia": "Roger Williams (American politician)",
       "opensecrets": "N00030602",
@@ -37915,9 +37232,7 @@
       "bioguide": "V000131",
       "thomas": "02166",
       "cspan": 79466,
-      "fec": [
-        "H2TX33073"
-      ],
+      "fec": ["H2TX33073"],
       "votesmart": 49671,
       "wikipedia": "Marc Veasey",
       "opensecrets": "N00033839",
@@ -38002,9 +37317,7 @@
       "bioguide": "V000132",
       "thomas": "02167",
       "cspan": 95434,
-      "fec": [
-        "H2TX27190"
-      ],
+      "fec": ["H2TX27190"],
       "votesmart": 137719,
       "wikipedia": "Filemon Vela Jr.",
       "opensecrets": "N00034349",
@@ -38091,9 +37404,7 @@
       "cspan": 68466,
       "votesmart": 135930,
       "wikipedia": "Chris Stewart (politician)",
-      "fec": [
-        "H2UT02324"
-      ],
+      "fec": ["H2UT02324"],
       "opensecrets": "N00033932",
       "ballotpedia": "Chris Stewart",
       "maplight": 1805,
@@ -38180,9 +37491,7 @@
       "wikipedia": "Tim Kaine",
       "votesmart": 50772,
       "opensecrets": "N00033177",
-      "fec": [
-        "S2VA00142"
-      ],
+      "fec": ["S2VA00142"],
       "ballotpedia": "Tim Kaine",
       "maplight": 1806,
       "icpsr": 41305,
@@ -38241,9 +37550,7 @@
       "cspan": 68310,
       "votesmart": 51516,
       "wikipedia": "Derek Kilmer",
-      "fec": [
-        "H2WA06129"
-      ],
+      "fec": ["H2WA06129"],
       "opensecrets": "N00034453",
       "ballotpedia": "Derek Kilmer",
       "maplight": 1807,
@@ -38326,9 +37633,7 @@
       "opensecrets": "N00031557",
       "votesmart": 126058,
       "wikipedia": "Denny Heck",
-      "fec": [
-        "H0WA03161"
-      ],
+      "fec": ["H0WA03161"],
       "ballotpedia": "Denny Heck",
       "maplight": 1808,
       "icpsr": 21369,
@@ -38412,9 +37717,7 @@
       "cspan": 79688,
       "votesmart": 26238,
       "wikipedia": "Mark Pocan",
-      "fec": [
-        "H2WI02124"
-      ],
+      "fec": ["H2WI02124"],
       "opensecrets": "N00033549",
       "ballotpedia": "Mark Pocan",
       "maplight": 1809,
@@ -38498,9 +37801,7 @@
       "govtrack": 412595,
       "votesmart": 33384,
       "wikipedia": "Robin Kelly",
-      "fec": [
-        "H2IL02172"
-      ],
+      "fec": ["H2IL02172"],
       "opensecrets": "N00035215",
       "ballotpedia": "Robin Kelly",
       "cspan": 70399,
@@ -38588,9 +37889,7 @@
       "votesmart": 59318,
       "maplight": 2047,
       "opensecrets": "N00035282",
-      "fec": [
-        "H4MO08162"
-      ],
+      "fec": ["H4MO08162"],
       "ballotpedia": "Jason Smith (Missouri representative)",
       "cspan": 71083,
       "icpsr": 21373,
@@ -38677,9 +37976,7 @@
       "votesmart": 76151,
       "wikipedia": "Cory Booker",
       "ballotpedia": "Cory Booker",
-      "fec": [
-        "S4NJ00185"
-      ],
+      "fec": ["S4NJ00185"],
       "cspan": 84679,
       "maplight": 2051,
       "wikidata": "Q1135767",
@@ -38737,9 +38034,7 @@
       "votesmart": 35858,
       "wikipedia": "Katherine Clark",
       "ballotpedia": "Katherine Clark",
-      "fec": [
-        "H4MA05084"
-      ],
+      "fec": ["H4MA05084"],
       "cspan": 73178,
       "house_history": 15032398493,
       "maplight": 2053,
@@ -38822,9 +38117,7 @@
       "wikipedia": "Bradley Byrne",
       "ballotpedia": "Bradley Byrne",
       "icpsr": 21376,
-      "fec": [
-        "H4AL01123"
-      ],
+      "fec": ["H4AL01123"],
       "cspan": 73486,
       "maplight": 2054,
       "wikidata": "Q4954892",
@@ -38898,9 +38191,7 @@
     "id": {
       "bioguide": "N000188",
       "thomas": "02202",
-      "fec": [
-        "H4NJ01084"
-      ],
+      "fec": ["H4NJ01084"],
       "govtrack": 412606,
       "opensecrets": "N00036154",
       "cspan": 76311,
@@ -38982,9 +38273,7 @@
     "id": {
       "bioguide": "A000370",
       "thomas": "02201",
-      "fec": [
-        "H4NC12100"
-      ],
+      "fec": ["H4NC12100"],
       "govtrack": 412607,
       "opensecrets": "N00035451",
       "cspan": 76386,
@@ -39064,9 +38353,7 @@
   {
     "id": {
       "bioguide": "P000609",
-      "fec": [
-        "H4AL06098"
-      ],
+      "fec": ["H4AL06098"],
       "govtrack": 412608,
       "opensecrets": "N00035691",
       "thomas": "02221",
@@ -39138,9 +38425,7 @@
   {
     "id": {
       "bioguide": "H001072",
-      "fec": [
-        "H4AR02141"
-      ],
+      "fec": ["H4AR02141"],
       "govtrack": 412609,
       "opensecrets": "N00035792",
       "thomas": "02223",
@@ -39205,9 +38490,7 @@
   {
     "id": {
       "bioguide": "W000821",
-      "fec": [
-        "H4AR04048"
-      ],
+      "fec": ["H4AR04048"],
       "govtrack": 412610,
       "opensecrets": "N00035527",
       "thomas": "02224",
@@ -39270,9 +38553,7 @@
   {
     "id": {
       "bioguide": "G000574",
-      "fec": [
-        "H4AZ07043"
-      ],
+      "fec": ["H4AZ07043"],
       "govtrack": 412612,
       "opensecrets": "N00036097",
       "thomas": "02226",
@@ -39335,9 +38616,7 @@
   {
     "id": {
       "bioguide": "D000623",
-      "fec": [
-        "H0CA10073"
-      ],
+      "fec": ["H0CA10073"],
       "govtrack": 412613,
       "opensecrets": "N00030709",
       "thomas": "02227",
@@ -39402,9 +38681,7 @@
   {
     "id": {
       "bioguide": "A000371",
-      "fec": [
-        "H2CA31125"
-      ],
+      "fec": ["H2CA31125"],
       "govtrack": 412615,
       "opensecrets": "N00033997",
       "thomas": "02229",
@@ -39469,9 +38746,7 @@
   {
     "id": {
       "bioguide": "L000582",
-      "fec": [
-        "H4CA33119"
-      ],
+      "fec": ["H4CA33119"],
       "govtrack": 412616,
       "opensecrets": "N00035825",
       "thomas": "02230",
@@ -39537,9 +38812,7 @@
   {
     "id": {
       "bioguide": "T000474",
-      "fec": [
-        "H4CA35031"
-      ],
+      "fec": ["H4CA35031"],
       "govtrack": 412617,
       "opensecrets": "N00036107",
       "thomas": "02231",
@@ -39605,10 +38878,7 @@
   {
     "id": {
       "bioguide": "B001297",
-      "fec": [
-        "S0CO00237",
-        "H4CO04090"
-      ],
+      "fec": ["S0CO00237", "H4CO04090"],
       "govtrack": 412619,
       "opensecrets": "N00030829",
       "thomas": "02233",
@@ -39673,9 +38943,7 @@
   {
     "id": {
       "bioguide": "C001103",
-      "fec": [
-        "H4GA01039"
-      ],
+      "fec": ["H4GA01039"],
       "govtrack": 412622,
       "opensecrets": "N00035346",
       "thomas": "02236",
@@ -39740,9 +39008,7 @@
   {
     "id": {
       "bioguide": "H001071",
-      "fec": [
-        "H0GA07125"
-      ],
+      "fec": ["H0GA07125"],
       "govtrack": 412623,
       "opensecrets": "N00032243",
       "thomas": "02237",
@@ -39807,9 +39073,7 @@
   {
     "id": {
       "bioguide": "L000583",
-      "fec": [
-        "H4GA11061"
-      ],
+      "fec": ["H4GA11061"],
       "govtrack": 412624,
       "opensecrets": "N00035347",
       "thomas": "02238",
@@ -39874,9 +39138,7 @@
   {
     "id": {
       "bioguide": "A000372",
-      "fec": [
-        "H2GA12121"
-      ],
+      "fec": ["H2GA12121"],
       "govtrack": 412625,
       "opensecrets": "N00033720",
       "thomas": "02239",
@@ -39941,9 +39203,7 @@
   {
     "id": {
       "bioguide": "B001295",
-      "fec": [
-        "H4IL12060"
-      ],
+      "fec": ["H4IL12060"],
       "govtrack": 412629,
       "opensecrets": "N00035420",
       "thomas": "02243",
@@ -40008,9 +39268,7 @@
   {
     "id": {
       "bioguide": "A000374",
-      "fec": [
-        "H4LA05221"
-      ],
+      "fec": ["H4LA05221"],
       "govtrack": 412630,
       "thomas": "02244",
       "opensecrets": "N00036633",
@@ -40076,9 +39334,7 @@
   {
     "id": {
       "bioguide": "G000577",
-      "fec": [
-        "H4LA06153"
-      ],
+      "fec": ["H4LA06153"],
       "govtrack": 412631,
       "thomas": "02245",
       "opensecrets": "N00036135",
@@ -40143,9 +39399,7 @@
   {
     "id": {
       "bioguide": "M001196",
-      "fec": [
-        "H4MA06090"
-      ],
+      "fec": ["H4MA06090"],
       "govtrack": 412632,
       "opensecrets": "N00035431",
       "thomas": "02246",
@@ -40211,9 +39465,7 @@
   {
     "id": {
       "bioguide": "M001194",
-      "fec": [
-        "H4MI04126"
-      ],
+      "fec": ["H4MI04126"],
       "govtrack": 412634,
       "opensecrets": "N00036275",
       "thomas": "02248",
@@ -40278,9 +39530,7 @@
   {
     "id": {
       "bioguide": "D000624",
-      "fec": [
-        "H4MI12079"
-      ],
+      "fec": ["H4MI12079"],
       "govtrack": 412637,
       "opensecrets": "N00036149",
       "thomas": "02251",
@@ -40346,9 +39596,7 @@
   {
     "id": {
       "bioguide": "L000581",
-      "fec": [
-        "H2MI14111"
-      ],
+      "fec": ["H2MI14111"],
       "govtrack": 412638,
       "opensecrets": "N00034068",
       "thomas": "02252",
@@ -40414,9 +39662,7 @@
   {
     "id": {
       "bioguide": "E000294",
-      "fec": [
-        "H4MN06087"
-      ],
+      "fec": ["H4MN06087"],
       "govtrack": 412639,
       "opensecrets": "N00035440",
       "thomas": "02253",
@@ -40481,9 +39727,7 @@
   {
     "id": {
       "bioguide": "R000603",
-      "fec": [
-        "H2NC07096"
-      ],
+      "fec": ["H2NC07096"],
       "govtrack": 412641,
       "opensecrets": "N00033527",
       "thomas": "02256",
@@ -40549,9 +39793,7 @@
   {
     "id": {
       "bioguide": "W000822",
-      "fec": [
-        "H4NJ12149"
-      ],
+      "fec": ["H4NJ12149"],
       "govtrack": 412644,
       "opensecrets": "N00036158",
       "thomas": "02259",
@@ -40617,9 +39859,7 @@
   {
     "id": {
       "bioguide": "Z000017",
-      "fec": [
-        "H8NY01148"
-      ],
+      "fec": ["H8NY01148"],
       "govtrack": 412646,
       "opensecrets": "N00029404",
       "thomas": "02261",
@@ -40684,9 +39924,7 @@
   {
     "id": {
       "bioguide": "R000602",
-      "fec": [
-        "H4NY04075"
-      ],
+      "fec": ["H4NY04075"],
       "govtrack": 412647,
       "opensecrets": "N00035927",
       "thomas": "02262",
@@ -40752,9 +39990,7 @@
   {
     "id": {
       "bioguide": "S001196",
-      "fec": [
-        "H4NY21079"
-      ],
+      "fec": ["H4NY21079"],
       "govtrack": 412648,
       "opensecrets": "N00035523",
       "thomas": "02263",
@@ -40820,9 +40056,7 @@
   {
     "id": {
       "bioguide": "K000386",
-      "fec": [
-        "H4NY24073"
-      ],
+      "fec": ["H4NY24073"],
       "govtrack": 412649,
       "opensecrets": "N00035934",
       "thomas": "02264",
@@ -40887,9 +40121,7 @@
   {
     "id": {
       "bioguide": "B001296",
-      "fec": [
-        "H4PA13199"
-      ],
+      "fec": ["H4PA13199"],
       "govtrack": 412652,
       "opensecrets": "N00035307",
       "thomas": "02267",
@@ -40955,9 +40187,7 @@
   {
     "id": {
       "bioguide": "H001073",
-      "fec": [
-        "H0TX23086"
-      ],
+      "fec": ["H0TX23086"],
       "govtrack": 412654,
       "opensecrets": "N00031417",
       "thomas": "02269",
@@ -41020,9 +40250,7 @@
   {
     "id": {
       "bioguide": "B001291",
-      "fec": [
-        "H6TX02079"
-      ],
+      "fec": ["H6TX02079"],
       "govtrack": 412655,
       "opensecrets": "N00005736",
       "thomas": "02270",
@@ -41087,9 +40315,7 @@
   {
     "id": {
       "bioguide": "B001292",
-      "fec": [
-        "H4VA08224"
-      ],
+      "fec": ["H4VA08224"],
       "govtrack": 412657,
       "opensecrets": "N00036018",
       "thomas": "02272",
@@ -41154,9 +40380,7 @@
   {
     "id": {
       "bioguide": "P000610",
-      "fec": [
-        "H2VI00082"
-      ],
+      "fec": ["H2VI00082"],
       "govtrack": 412659,
       "opensecrets": "N00035000",
       "thomas": "02274",
@@ -41221,9 +40445,7 @@
   {
     "id": {
       "bioguide": "N000189",
-      "fec": [
-        "H4WA04104"
-      ],
+      "fec": ["H4WA04104"],
       "govtrack": 412660,
       "opensecrets": "N00036403",
       "thomas": "02275",
@@ -41288,9 +40510,7 @@
   {
     "id": {
       "bioguide": "G000576",
-      "fec": [
-        "H4WI06048"
-      ],
+      "fec": ["H4WI06048"],
       "govtrack": 412661,
       "opensecrets": "N00036409",
       "thomas": "02276",
@@ -41355,9 +40575,7 @@
   {
     "id": {
       "bioguide": "M001195",
-      "fec": [
-        "H4WV02080"
-      ],
+      "fec": ["H4WV02080"],
       "govtrack": 412662,
       "opensecrets": "N00033814",
       "thomas": "02277",
@@ -41422,9 +40640,7 @@
   {
     "id": {
       "bioguide": "R000600",
-      "fec": [
-        "H4AS00036"
-      ],
+      "fec": ["H4AS00036"],
       "govtrack": 412664,
       "opensecrets": "N00007635",
       "thomas": "02222",
@@ -41490,9 +40706,7 @@
     "id": {
       "bioguide": "S001198",
       "thomas": "02290",
-      "fec": [
-        "S4AK00214"
-      ],
+      "fec": ["S4AK00214"],
       "govtrack": 412665,
       "opensecrets": "N00035774",
       "lis": "S383",
@@ -41534,9 +40748,7 @@
     "id": {
       "bioguide": "P000612",
       "thomas": "02286",
-      "fec": [
-        "S4GA11285"
-      ],
+      "fec": ["S4GA11285"],
       "govtrack": 412666,
       "opensecrets": "N00035516",
       "lis": "S379",
@@ -41578,9 +40790,7 @@
     "id": {
       "bioguide": "E000295",
       "thomas": "02283",
-      "fec": [
-        "S4IA00129"
-      ],
+      "fec": ["S4IA00129"],
       "govtrack": 412667,
       "opensecrets": "N00035483",
       "lis": "S376",
@@ -41630,9 +40840,7 @@
     "id": {
       "bioguide": "T000476",
       "thomas": "02291",
-      "fec": [
-        "S4NC00162"
-      ],
+      "fec": ["S4NC00162"],
       "govtrack": 412668,
       "opensecrets": "N00035492",
       "lis": "S384",
@@ -41674,9 +40882,7 @@
     "id": {
       "bioguide": "R000605",
       "thomas": "02288",
-      "fec": [
-        "S4SD00049"
-      ],
+      "fec": ["S4SD00049"],
       "govtrack": 412669,
       "opensecrets": "N00035187",
       "lis": "S381",
@@ -41717,9 +40923,7 @@
   {
     "id": {
       "bioguide": "W000819",
-      "fec": [
-        "H4NC06052"
-      ],
+      "fec": ["H4NC06052"],
       "govtrack": 412670,
       "opensecrets": "N00035311",
       "thomas": "02255",
@@ -41785,9 +40989,7 @@
     "id": {
       "bioguide": "S001197",
       "thomas": "02289",
-      "fec": [
-        "S4NE00090"
-      ],
+      "fec": ["S4NE00090"],
       "govtrack": 412671,
       "opensecrets": "N00035544",
       "lis": "S382",
@@ -41830,9 +41032,7 @@
     "id": {
       "bioguide": "K000388",
       "thomas": "02294",
-      "fec": [
-        "H6MS01131"
-      ],
+      "fec": ["H6MS01131"],
       "govtrack": 412673,
       "votesmart": 156389,
       "wikipedia": "Trent Kelly",
@@ -41897,9 +41097,7 @@
     "id": {
       "bioguide": "L000585",
       "thomas": "02295",
-      "fec": [
-        "H6IL18088"
-      ],
+      "fec": ["H6IL18088"],
       "govtrack": 412674,
       "votesmart": 128760,
       "wikipedia": "Darin LaHood",
@@ -41965,9 +41163,7 @@
     "id": {
       "bioguide": "D000626",
       "thomas": "02296",
-      "fec": [
-        "H6OH08315"
-      ],
+      "fec": ["H6OH08315"],
       "govtrack": 412675,
       "votesmart": 166760,
       "wikipedia": "Warren Davidson",
@@ -42031,9 +41227,7 @@
       "bioguide": "C001108",
       "govtrack": 412676,
       "opensecrets": "N00038260",
-      "fec": [
-        "H6KY01110"
-      ],
+      "fec": ["H6KY01110"],
       "cspan": 76619,
       "wikipedia": "James Comer (politician)",
       "ballotpedia": "James Comer Jr.",
@@ -42100,9 +41294,7 @@
       "bioguide": "E000296",
       "govtrack": 412677,
       "opensecrets": "N00038450",
-      "fec": [
-        "H6PA02171"
-      ],
+      "fec": ["H6PA02171"],
       "cspan": 56729,
       "wikipedia": "Dwight Evans (politician)",
       "ballotpedia": "Dwight Evans",
@@ -42167,9 +41359,7 @@
   {
     "id": {
       "bioguide": "H001075",
-      "fec": [
-        "S6CA00584"
-      ],
+      "fec": ["S6CA00584"],
       "govtrack": 412678,
       "votesmart": 120012,
       "wikipedia": "Kamala Harris",
@@ -42211,9 +41401,7 @@
   {
     "id": {
       "bioguide": "K000393",
-      "fec": [
-        "S4LA00065"
-      ],
+      "fec": ["S4LA00065"],
       "govtrack": 412679,
       "votesmart": 35496,
       "wikipedia": "John Kennedy (Louisiana politician)",
@@ -42256,9 +41444,7 @@
   {
     "id": {
       "bioguide": "H001076",
-      "fec": [
-        "S6NH00091"
-      ],
+      "fec": ["S6NH00091"],
       "govtrack": 412680,
       "votesmart": 42552,
       "wikipedia": "Maggie Hassan",
@@ -42302,9 +41488,7 @@
   {
     "id": {
       "bioguide": "C001113",
-      "fec": [
-        "S6NV00200"
-      ],
+      "fec": ["S6NV00200"],
       "govtrack": 412681,
       "votesmart": 69579,
       "wikipedia": "Catherine Cortez Masto",
@@ -42352,9 +41536,7 @@
       "opensecrets": "N00033101",
       "votesmart": 134948,
       "wikipedia": "Brad Schneider",
-      "fec": [
-        "H2IL10068"
-      ],
+      "fec": ["H2IL10068"],
       "ballotpedia": "Brad Schneider",
       "maplight": 1758,
       "icpsr": 21326,
@@ -42423,9 +41605,7 @@
       "wikipedia": "Tom O'Halleran",
       "wikidata": "Q7817086",
       "votesmart": 28499,
-      "fec": [
-        "H6AZ01199"
-      ],
+      "fec": ["H6AZ01199"],
       "opensecrets": "N00037515",
       "maplight": 2194,
       "google_entity_id": "kg:/m/02z4x12",
@@ -42475,9 +41655,7 @@
       "wikipedia": "Andy Biggs",
       "wikidata": "Q16199304",
       "votesmart": 28088,
-      "fec": [
-        "H6AZ05083"
-      ],
+      "fec": ["H6AZ05083"],
       "opensecrets": "N00039293",
       "maplight": 2195,
       "google_entity_id": "kg:/m/0_1m23v",
@@ -42527,9 +41705,7 @@
       "wikipedia": "Ro Khanna",
       "wikidata": "Q7339221",
       "votesmart": 29473,
-      "fec": [
-        "H4CA12055"
-      ],
+      "fec": ["H4CA12055"],
       "opensecrets": "N00026427",
       "maplight": 2196,
       "google_entity_id": "kg:/m/0q3z5xy",
@@ -42579,9 +41755,7 @@
       "wikipedia": "Jimmy Panetta",
       "wikidata": "Q27733776",
       "votesmart": 169078,
-      "fec": [
-        "H6CA20152"
-      ],
+      "fec": ["H6CA20152"],
       "opensecrets": "N00038601",
       "maplight": 2197,
       "google_entity_id": "kg:/m/0pyy9y4",
@@ -42631,9 +41805,7 @@
       "wikipedia": "Salud Carbajal",
       "wikidata": "Q27805429",
       "votesmart": 81569,
-      "fec": [
-        "H6CA24303"
-      ],
+      "fec": ["H6CA24303"],
       "opensecrets": "N00037015",
       "maplight": 2198,
       "google_entity_id": "kg:/g/11cmh_7rjt",
@@ -42683,9 +41855,7 @@
       "wikipedia": "Nanette Barrag\u00e1n",
       "wikidata": "Q21662745",
       "votesmart": 166270,
-      "fec": [
-        "H6CA44103"
-      ],
+      "fec": ["H6CA44103"],
       "opensecrets": "N00037019",
       "maplight": 2199,
       "google_entity_id": "kg:/g/11bx55ybbz",
@@ -42735,9 +41905,7 @@
       "wikipedia": "Lou Correa",
       "wikidata": "Q6685454",
       "votesmart": 9732,
-      "fec": [
-        "H6CA46116"
-      ],
+      "fec": ["H6CA46116"],
       "opensecrets": "N00037260",
       "maplight": 2200,
       "google_entity_id": "kg:/m/02q_np2",
@@ -42788,9 +41956,7 @@
       "wikipedia": "Lisa Blunt Rochester",
       "wikidata": "Q26899141",
       "votesmart": 173249,
-      "fec": [
-        "H6DE00206"
-      ],
+      "fec": ["H6DE00206"],
       "opensecrets": "N00038414",
       "maplight": 2201,
       "google_entity_id": "kg:/g/11c3yvwbvn",
@@ -42841,9 +42007,7 @@
       "wikidata": "Q16221742",
       "google_entity_id": "kg:/m/0s8w2_s",
       "votesmart": 117101,
-      "fec": [
-        "H6FL01119"
-      ],
+      "fec": ["H6FL01119"],
       "opensecrets": "N00039503",
       "maplight": 2202,
       "cspan": 104528,
@@ -42892,9 +42056,7 @@
       "wikipedia": "Neal Dunn",
       "wikidata": "Q27733851",
       "votesmart": 166297,
-      "fec": [
-        "H6FL02208"
-      ],
+      "fec": ["H6FL02208"],
       "opensecrets": "N00037442",
       "maplight": 2203,
       "google_entity_id": "kg:/g/11c2ld4vv7",
@@ -42944,9 +42106,7 @@
       "wikipedia": "John Rutherford (Florida politician)",
       "wikidata": "Q6256043",
       "votesmart": 172542,
-      "fec": [
-        "H6FL04105"
-      ],
+      "fec": ["H6FL04105"],
       "opensecrets": "N00039777",
       "maplight": 2204,
       "google_entity_id": "kg:/m/03zz77",
@@ -42996,9 +42156,7 @@
       "wikipedia": "Al Lawson",
       "wikidata": "Q4723052",
       "votesmart": 24263,
-      "fec": [
-        "H0FL02086"
-      ],
+      "fec": ["H0FL02086"],
       "opensecrets": "N00030642",
       "maplight": 2205,
       "google_entity_id": "kg:/m/03cg0sv",
@@ -43048,9 +42206,7 @@
       "wikipedia": "Stephanie Murphy",
       "wikidata": "Q27804538",
       "votesmart": 173426,
-      "fec": [
-        "H6FL07140"
-      ],
+      "fec": ["H6FL07140"],
       "opensecrets": "N00040133",
       "maplight": 2206,
       "google_entity_id": "kg:/g/11c48s1mnv",
@@ -43100,9 +42256,7 @@
       "wikipedia": "Darren Soto",
       "wikidata": "Q5225162",
       "votesmart": 67618,
-      "fec": [
-        "H6FL09179"
-      ],
+      "fec": ["H6FL09179"],
       "opensecrets": "N00037422",
       "maplight": 2207,
       "google_entity_id": "kg:/m/05b_1xw",
@@ -43153,9 +42307,7 @@
       "wikidata": "Q7909083",
       "google_entity_id": "kg:/m/0n52xwn",
       "votesmart": 137637,
-      "fec": [
-        "H2FL08063"
-      ],
+      "fec": ["H2FL08063"],
       "opensecrets": "N00033449",
       "maplight": 2208,
       "cspan": 623713,
@@ -43205,9 +42357,7 @@
       "wikidata": "Q374693",
       "google_entity_id": "kg:/m/04jyvv",
       "votesmart": 24311,
-      "fec": [
-        "H6FL13205"
-      ],
+      "fec": ["H6FL13205"],
       "opensecrets": "N00002942",
       "maplight": 2209,
       "cspan": 7960,
@@ -43256,9 +42406,7 @@
       "wikipedia": "Brian Mast",
       "wikidata": "Q27733854",
       "votesmart": 166245,
-      "fec": [
-        "H6FL18097"
-      ],
+      "fec": ["H6FL18097"],
       "opensecrets": "N00037269",
       "maplight": 2210,
       "google_entity_id": "kg:/g/11cs5xxx_f",
@@ -43309,9 +42457,7 @@
       "wikipedia": "Francis Rooney",
       "wikidata": "Q5482337",
       "votesmart": 172678,
-      "fec": [
-        "H6FL19087"
-      ],
+      "fec": ["H6FL19087"],
       "opensecrets": "N00040007",
       "maplight": 2211,
       "google_entity_id": "kg:/m/0764lz",
@@ -43362,9 +42508,7 @@
       "wikipedia": "Drew Ferguson (politician)",
       "wikidata": "Q26157659",
       "votesmart": 168132,
-      "fec": [
-        "H6GA03113"
-      ],
+      "fec": ["H6GA03113"],
       "opensecrets": "N00039090",
       "maplight": 2212,
       "google_entity_id": "kg:/g/11c0xj334k",
@@ -43418,9 +42562,7 @@
       "wikidata": "Q7285471",
       "google_entity_id": "kg:/m/064p225",
       "votesmart": 117519,
-      "fec": [
-        "H6IL08147"
-      ],
+      "fec": ["H6IL08147"],
       "opensecrets": "N00033240",
       "maplight": 2213,
       "cspan": 103408,
@@ -43469,9 +42611,7 @@
       "wikipedia": "Jim Banks",
       "wikidata": "Q16146788",
       "votesmart": 116801,
-      "fec": [
-        "H6IN03229"
-      ],
+      "fec": ["H6IN03229"],
       "opensecrets": "N00037185",
       "maplight": 2214,
       "google_entity_id": "kg:/m/0j621nj",
@@ -43522,9 +42662,7 @@
       "wikipedia": "Trey Hollingsworth",
       "wikidata": "Q27804536",
       "votesmart": 167423,
-      "fec": [
-        "H6IN09176"
-      ],
+      "fec": ["H6IN09176"],
       "opensecrets": "N00038429",
       "maplight": 2215,
       "google_entity_id": "kg:/g/11cnt8qr9t",
@@ -43575,9 +42713,7 @@
       "wikipedia": "Roger Marshall (politician)",
       "wikidata": "Q27923290",
       "votesmart": 172080,
-      "fec": [
-        "H6KS01179"
-      ],
+      "fec": ["H6KS01179"],
       "opensecrets": "N00037034",
       "maplight": 2216,
       "google_entity_id": "kg:/g/11c4btdtm1",
@@ -43627,9 +42763,7 @@
       "wikipedia": "Clay Higgins",
       "wikidata": "Q25849505",
       "votesmart": 174484,
-      "fec": [
-        "H6LA03148"
-      ],
+      "fec": ["H6LA03148"],
       "opensecrets": "N00039953",
       "maplight": 2217,
       "google_entity_id": "kg:/g/11c1s3lp76",
@@ -43679,9 +42813,7 @@
       "wikipedia": "Mike Johnson (Louisiana politician)",
       "wikidata": "Q19880665",
       "votesmart": 156097,
-      "fec": [
-        "H6LA04138"
-      ],
+      "fec": ["H6LA04138"],
       "opensecrets": "N00039106",
       "maplight": 2218,
       "google_entity_id": "kg:/m/0131jn2m",
@@ -43731,9 +42863,7 @@
       "wikipedia": "Anthony G. Brown",
       "wikidata": "Q4772558",
       "votesmart": 19344,
-      "fec": [
-        "H6MD04209"
-      ],
+      "fec": ["H6MD04209"],
       "opensecrets": "N00036999",
       "maplight": 2219,
       "google_entity_id": "kg:/m/09v6fg",
@@ -43784,9 +42914,7 @@
       "wikidata": "Q640835",
       "google_entity_id": "kg:/m/0c13wm",
       "votesmart": 65904,
-      "fec": [
-        "H6MD08457"
-      ],
+      "fec": ["H6MD08457"],
       "opensecrets": "N00037036",
       "maplight": 2220,
       "cspan": 12924,
@@ -43835,9 +42963,7 @@
       "wikipedia": "Jack Bergman",
       "wikidata": "Q6262116",
       "votesmart": 170172,
-      "fec": [
-        "H6MI01226"
-      ],
+      "fec": ["H6MI01226"],
       "opensecrets": "N00039533",
       "maplight": 2221,
       "google_entity_id": "kg:/m/05b2l3v",
@@ -43887,9 +43013,7 @@
       "wikipedia": "Paul Mitchell (politician)",
       "wikidata": "Q27922634",
       "votesmart": 152464,
-      "fec": [
-        "H4MI04118"
-      ],
+      "fec": ["H4MI04118"],
       "opensecrets": "N00036274",
       "maplight": 2222,
       "google_entity_id": "kg:/g/11c1rgc3x6",
@@ -43939,9 +43063,7 @@
       "wikipedia": "Ted Budd",
       "wikidata": "Q27733792",
       "votesmart": 171489,
-      "fec": [
-        "H6NC13129"
-      ],
+      "fec": ["H6NC13129"],
       "opensecrets": "N00039551",
       "maplight": 2224,
       "google_entity_id": "kg:/g/11c2nmnsj0",
@@ -43992,9 +43114,7 @@
       "wikipedia": "Don Bacon (politician)",
       "wikidata": "Q19757583",
       "votesmart": 166299,
-      "fec": [
-        "H6NE02125"
-      ],
+      "fec": ["H6NE02125"],
       "opensecrets": "N00037049",
       "maplight": 2225,
       "google_entity_id": "kg:/m/01311t71",
@@ -44044,9 +43164,7 @@
       "wikipedia": "Josh Gottheimer",
       "wikidata": "Q6288908",
       "votesmart": 169202,
-      "fec": [
-        "H6NJ05171"
-      ],
+      "fec": ["H6NJ05171"],
       "opensecrets": "N00036944",
       "maplight": 2226,
       "google_entity_id": "kg:/g/120x5twv",
@@ -44096,10 +43214,7 @@
       "wikipedia": "Jacky Rosen",
       "wikidata": "Q27825033",
       "votesmart": 169471,
-      "fec": [
-        "H6NV03139",
-        "S8NV00156"
-      ],
+      "fec": ["H6NV03139", "S8NV00156"],
       "opensecrets": "N00038734",
       "maplight": 2227,
       "google_entity_id": "kg:/g/11cntnvwkg",
@@ -44152,9 +43267,7 @@
       "wikipedia": "Thomas Suozzi",
       "wikidata": "Q7794276",
       "votesmart": 92111,
-      "fec": [
-        "H6NY03247"
-      ],
+      "fec": ["H6NY03247"],
       "opensecrets": "N00038742",
       "maplight": 2229,
       "google_entity_id": "kg:/m/060n4d",
@@ -44206,9 +43319,7 @@
       "wikidata": "Q4685569",
       "google_entity_id": "kg:/m/06nfs2",
       "votesmart": 14379,
-      "fec": [
-        "H2NY13096"
-      ],
+      "fec": ["H2NY13096"],
       "opensecrets": "N00034549",
       "maplight": 2230,
       "cspan": 68413,
@@ -44258,9 +43369,7 @@
       "wikipedia": "Brian Fitzpatrick (American politician)",
       "wikidata": "Q27831059",
       "votesmart": 167708,
-      "fec": [
-        "H6PA08277"
-      ],
+      "fec": ["H6PA08277"],
       "opensecrets": "N00038779",
       "maplight": 2233,
       "google_entity_id": "kg:/g/11c2l6lhlm",
@@ -44310,9 +43419,7 @@
       "wikipedia": "Lloyd Smucker",
       "wikidata": "Q6662742",
       "votesmart": 102454,
-      "fec": [
-        "H6PA16320"
-      ],
+      "fec": ["H6PA16320"],
       "opensecrets": "N00038781",
       "maplight": 2234,
       "google_entity_id": "kg:/m/05t08cn",
@@ -44361,9 +43468,7 @@
       "govtrack": 412723,
       "wikipedia": "Jenniffer Gonz\u00e1lez",
       "wikidata": "Q16215793",
-      "fec": [
-        "H6PR00082"
-      ],
+      "fec": ["H6PR00082"],
       "opensecrets": "N00037615",
       "maplight": 2235,
       "google_entity_id": "kg:/m/027s3vf",
@@ -44400,9 +43505,7 @@
       "wikipedia": "David Kustoff",
       "wikidata": "Q26923148",
       "votesmart": 48997,
-      "fec": [
-        "H2TN07103"
-      ],
+      "fec": ["H2TN07103"],
       "opensecrets": "N00025445",
       "maplight": 2236,
       "google_entity_id": "kg:/g/11c1qmm_nk",
@@ -44452,9 +43555,7 @@
       "wikipedia": "Vicente Gonzalez (politician)",
       "wikidata": "Q27924921",
       "votesmart": 166483,
-      "fec": [
-        "H6TX15162"
-      ],
+      "fec": ["H6TX15162"],
       "opensecrets": "N00038809",
       "maplight": 2237,
       "google_entity_id": "kg:/g/11c266m1z7",
@@ -44504,9 +43605,7 @@
       "wikipedia": "Jodey Arrington",
       "wikidata": "Q6207815",
       "votesmart": 155685,
-      "fec": [
-        "H6TX19099"
-      ],
+      "fec": ["H6TX19099"],
       "opensecrets": "N00038285",
       "maplight": 2238,
       "google_entity_id": "kg:/m/0g9_f_1",
@@ -44557,9 +43656,7 @@
       "wikidata": "Q4647699",
       "google_entity_id": "kg:/m/0979v6",
       "votesmart": 8230,
-      "fec": [
-        "H6VA04061"
-      ],
+      "fec": ["H6VA04061"],
       "opensecrets": "N00039327",
       "maplight": 2240,
       "cspan": 103621,
@@ -44609,9 +43706,7 @@
       "wikipedia": "Pramila Jayapal",
       "wikidata": "Q18978140",
       "votesmart": 153141,
-      "fec": [
-        "H6WA07458"
-      ],
+      "fec": ["H6WA07458"],
       "opensecrets": "N00038858",
       "maplight": 2242,
       "google_entity_id": "kg:/m/0c3dxcq",
@@ -44661,9 +43756,7 @@
       "wikipedia": "Mike Gallagher (American politician)",
       "wikidata": "Q27842981",
       "votesmart": 171843,
-      "fec": [
-        "H6WI08155"
-      ],
+      "fec": ["H6WI08155"],
       "opensecrets": "N00039330",
       "maplight": 2243,
       "google_entity_id": "kg:/g/11c5qns1cc",
@@ -44714,9 +43807,7 @@
       "wikidata": "Q5362573",
       "google_entity_id": "kg:/m/04slt0",
       "votesmart": 171319,
-      "fec": [
-        "H6WY00159"
-      ],
+      "fec": ["H6WY00159"],
       "opensecrets": "N00035504",
       "maplight": 2244,
       "cspan": 86147,
@@ -44768,9 +43859,7 @@
   {
     "id": {
       "bioguide": "E000298",
-      "fec": [
-        "H8KS04112"
-      ],
+      "fec": ["H8KS04112"],
       "govtrack": 412735,
       "wikipedia": "Ron Estes",
       "wikidata": "Q7363747",
@@ -44823,9 +43912,7 @@
   {
     "id": {
       "bioguide": "G000584",
-      "fec": [
-        "H8MT01182"
-      ],
+      "fec": ["H8MT01182"],
       "govtrack": 412736,
       "opensecrets": "N00040733",
       "votesmart": 168594,
@@ -44878,9 +43965,7 @@
   {
     "id": {
       "bioguide": "N000190",
-      "fec": [
-        "H8SC05158"
-      ],
+      "fec": ["H8SC05158"],
       "govtrack": 412738,
       "opensecrets": "N00027783",
       "votesmart": 47930,
@@ -44934,9 +44019,7 @@
   {
     "id": {
       "bioguide": "G000585",
-      "fec": [
-        "H8CA34266"
-      ],
+      "fec": ["H8CA34266"],
       "govtrack": 412739,
       "opensecrets": "N00040597",
       "votesmart": 138524,
@@ -44988,9 +44071,7 @@
   {
     "id": {
       "bioguide": "C001114",
-      "fec": [
-        "H8UT03238"
-      ],
+      "fec": ["H8UT03238"],
       "govtrack": 412740,
       "opensecrets": "N00041221",
       "votesmart": 123390,
@@ -45042,9 +44123,7 @@
       "bioguide": "J000300",
       "lis": "S393",
       "govtrack": 412741,
-      "fec": [
-        "S0AL00156"
-      ],
+      "fec": ["S0AL00156"],
       "wikipedia": "Doug Jones (politician)",
       "wikidata": "Q30122825",
       "cspan": 1024592,
@@ -45087,9 +44166,7 @@
       "lis": "S394",
       "govtrack": 412742,
       "votesmart": 152968,
-      "fec": [
-        "S8MN00578"
-      ],
+      "fec": ["S8MN00578"],
       "cspan": 111313,
       "icpsr": 41706,
       "wikipedia": "Tina Smith",
@@ -45148,9 +44225,7 @@
       "lis": "S395",
       "govtrack": 412743,
       "votesmart": 20784,
-      "fec": [
-        "S8MS00261"
-      ],
+      "fec": ["S8MS00261"],
       "cspan": 113208,
       "wikipedia": "Cindy Hyde-Smith",
       "ballotpedia": "Cindy Hyde-Smith",
@@ -45204,9 +44279,7 @@
   {
     "id": {
       "bioguide": "L000588",
-      "fec": [
-        "H8PA18181"
-      ],
+      "fec": ["H8PA18181"],
       "govtrack": 412744,
       "opensecrets": "N00041870",
       "wikipedia": "Conor Lamb",
@@ -45255,9 +44328,7 @@
   {
     "id": {
       "bioguide": "L000589",
-      "fec": [
-        "H8AZ08158"
-      ],
+      "fec": ["H8AZ08158"],
       "govtrack": 412745,
       "opensecrets": "N00042056",
       "wikipedia": "Debbie Lesko",
@@ -45306,9 +44377,7 @@
   {
     "id": {
       "bioguide": "C001115",
-      "fec": [
-        "H8TX27049"
-      ],
+      "fec": ["H8TX27049"],
       "govtrack": 412746,
       "cspan": 10322,
       "wikipedia": "Michael Cloud",
@@ -45357,9 +44426,7 @@
   {
     "id": {
       "bioguide": "B001306",
-      "fec": [
-        "H8OH12180"
-      ],
+      "fec": ["H8OH12180"],
       "govtrack": 412747,
       "opensecrets": "N00042194",
       "wikipedia": "Troy Balderson",
@@ -45408,9 +44475,7 @@
   {
     "id": {
       "bioguide": "H001082",
-      "fec": [
-        "H8OK01157"
-      ],
+      "fec": ["H8OK01157"],
       "govtrack": 412748,
       "wikipedia": "Kevin Hern",
       "wikidata": "Q58333614",
@@ -45459,9 +44524,7 @@
   {
     "id": {
       "bioguide": "M001206",
-      "fec": [
-        "H8NY25105"
-      ],
+      "fec": ["H8NY25105"],
       "govtrack": 412749,
       "wikipedia": "Joseph Morelle",
       "wikidata": "Q6285623",
@@ -45511,9 +44574,7 @@
   {
     "id": {
       "bioguide": "S001205",
-      "fec": [
-        "H8PA07200"
-      ],
+      "fec": ["H8PA07200"],
       "govtrack": 412750,
       "wikipedia": "Mary Gay Scanlon",
       "wikidata": "Q54611716",
@@ -45562,9 +44623,7 @@
   {
     "id": {
       "bioguide": "W000826",
-      "fec": [
-        "H8PA15229"
-      ],
+      "fec": ["H8PA15229"],
       "govtrack": 412751,
       "wikipedia": "Susan Wild",
       "wikidata": "Q58323072",
@@ -45613,9 +44672,7 @@
   {
     "id": {
       "bioguide": "C001055",
-      "fec": [
-        "H2HI02128"
-      ],
+      "fec": ["H2HI02128"],
       "thomas": "01693",
       "govtrack": 400069,
       "opensecrets": "N00025882",
@@ -45675,9 +44732,7 @@
       "cspan": 79614,
       "votesmart": 44064,
       "wikipedia": "Steven Horsford",
-      "fec": [
-        "H2NV04011"
-      ],
+      "fec": ["H2NV04011"],
       "opensecrets": "N00033638",
       "ballotpedia": "Steven Horsford",
       "maplight": 1783,
@@ -45732,9 +44787,7 @@
       "govtrack": 412286,
       "opensecrets": "N00029260",
       "votesmart": 28425,
-      "fec": [
-        "H8AZ01104"
-      ],
+      "fec": ["H8AZ01104"],
       "cspan": 1031338,
       "wikipedia": "Ann Kirkpatrick",
       "house_history": 16560,
@@ -45811,9 +44864,7 @@
   {
     "id": {
       "bioguide": "S001211",
-      "fec": [
-        "H8AZ09040"
-      ],
+      "fec": ["H8AZ09040"],
       "govtrack": 412753,
       "wikipedia": "Greg Stanton",
       "wikidata": "Q5606289",
@@ -45849,9 +44900,7 @@
   {
     "id": {
       "bioguide": "H001090",
-      "fec": [
-        "H8CA10126"
-      ],
+      "fec": ["H8CA10126"],
       "govtrack": 412754,
       "wikipedia": "Josh Harder",
       "wikidata": "Q58494468",
@@ -45887,9 +44936,7 @@
   {
     "id": {
       "bioguide": "C001124",
-      "fec": [
-        "H8CA10167"
-      ],
+      "fec": ["H8CA10167"],
       "govtrack": 412755,
       "wikipedia": "TJ Cox",
       "opensecrets": "N00028122",
@@ -45926,9 +44973,7 @@
   {
     "id": {
       "bioguide": "C001123",
-      "fec": [
-        "H8CA39174"
-      ],
+      "fec": ["H8CA39174"],
       "govtrack": 412757,
       "opensecrets": "N00041464",
       "wikipedia": "Gil Cisneros",
@@ -45964,9 +45009,7 @@
   {
     "id": {
       "bioguide": "P000618",
-      "fec": [
-        "H8CA45130"
-      ],
+      "fec": ["H8CA45130"],
       "govtrack": 412758,
       "wikipedia": "Katie Porter",
       "wikidata": "Q58754391",
@@ -46001,9 +45044,7 @@
   {
     "id": {
       "bioguide": "R000616",
-      "fec": [
-        "H8CA48035"
-      ],
+      "fec": ["H8CA48035"],
       "govtrack": 412759,
       "wikipedia": "Harley Rouda",
       "wikidata": "Q58333597",
@@ -46038,9 +45079,7 @@
   {
     "id": {
       "bioguide": "L000593",
-      "fec": [
-        "H8CA49058"
-      ],
+      "fec": ["H8CA49058"],
       "govtrack": 412760,
       "wikipedia": "Mike Levin",
       "wikidata": "Q55424854",
@@ -46075,9 +45114,7 @@
   {
     "id": {
       "bioguide": "N000191",
-      "fec": [
-        "H8CO02160"
-      ],
+      "fec": ["H8CO02160"],
       "govtrack": 412761,
       "wikipedia": "Joe Neguse",
       "wikidata": "Q57242006",
@@ -46112,9 +45149,7 @@
   {
     "id": {
       "bioguide": "C001121",
-      "fec": [
-        "H8CO06229"
-      ],
+      "fec": ["H8CO06229"],
       "govtrack": 412762,
       "wikipedia": "Jason Crow",
       "opensecrets": "N00040876",
@@ -46149,9 +45184,7 @@
   {
     "id": {
       "bioguide": "H001081",
-      "fec": [
-        "H8CT05245"
-      ],
+      "fec": ["H8CT05245"],
       "govtrack": 412763,
       "wikipedia": "Jahana Hayes",
       "wikidata": "Q24951316",
@@ -46186,9 +45219,7 @@
   {
     "id": {
       "bioguide": "W000823",
-      "fec": [
-        "H8FL06148"
-      ],
+      "fec": ["H8FL06148"],
       "govtrack": 412764,
       "wikipedia": "Michael Waltz",
       "wikidata": "Q55386653",
@@ -46222,9 +45253,7 @@
   {
     "id": {
       "bioguide": "S001210",
-      "fec": [
-        "H8FL15230"
-      ],
+      "fec": ["H8FL15230"],
       "govtrack": 412765,
       "wikipedia": "Ross Spano",
       "wikidata": "Q16196710",
@@ -46260,9 +45289,7 @@
   {
     "id": {
       "bioguide": "S001214",
-      "fec": [
-        "H8FL17053"
-      ],
+      "fec": ["H8FL17053"],
       "govtrack": 412766,
       "wikipedia": "Greg Steube",
       "wikidata": "Q5606295",
@@ -46299,9 +45326,7 @@
   {
     "id": {
       "bioguide": "M001207",
-      "fec": [
-        "H8FL26039"
-      ],
+      "fec": ["H8FL26039"],
       "govtrack": 412767,
       "wikipedia": "Debbie Mucarsel-Powell",
       "wikidata": "Q58323616",
@@ -46337,9 +45362,7 @@
   {
     "id": {
       "bioguide": "S001206",
-      "fec": [
-        "H8FL27193"
-      ],
+      "fec": ["H8FL27193"],
       "govtrack": 412768,
       "wikipedia": "Donna Shalala",
       "wikidata": "Q292569",
@@ -46376,9 +45399,7 @@
   {
     "id": {
       "bioguide": "M001208",
-      "fec": [
-        "H8GA06393"
-      ],
+      "fec": ["H8GA06393"],
       "govtrack": 412769,
       "wikipedia": "Lucy McBath",
       "wikidata": "Q54358424",
@@ -46414,9 +45435,7 @@
   {
     "id": {
       "bioguide": "S001204",
-      "fec": [
-        "H8GU01020"
-      ],
+      "fec": ["H8GU01020"],
       "govtrack": 412770,
       "opensecrets": "N00042619",
       "wikipedia": "Michael San Nicolas",
@@ -46451,9 +45470,7 @@
   {
     "id": {
       "bioguide": "F000467",
-      "fec": [
-        "H8IA01094"
-      ],
+      "fec": ["H8IA01094"],
       "govtrack": 412771,
       "wikipedia": "Abby Finkenauer",
       "wikidata": "Q24435337",
@@ -46489,9 +45506,7 @@
   {
     "id": {
       "bioguide": "A000378",
-      "fec": [
-        "H8IA03124"
-      ],
+      "fec": ["H8IA03124"],
       "govtrack": 412772,
       "opensecrets": "N00041104",
       "wikipedia": "Cindy Axne",
@@ -46527,9 +45542,7 @@
   {
     "id": {
       "bioguide": "F000469",
-      "fec": [
-        "H8ID01124"
-      ],
+      "fec": ["H8ID01124"],
       "govtrack": 412773,
       "wikipedia": "Russ Fulcher",
       "wikidata": "Q7381134",
@@ -46565,9 +45578,7 @@
   {
     "id": {
       "bioguide": "G000586",
-      "fec": [
-        "H8IL04134"
-      ],
+      "fec": ["H8IL04134"],
       "govtrack": 412774,
       "wikipedia": "Jes\u00fas \"Chuy\" Garc\u00eda",
       "wikidata": "Q18631698",
@@ -46604,9 +45615,7 @@
   {
     "id": {
       "bioguide": "C001117",
-      "fec": [
-        "H8IL06139"
-      ],
+      "fec": ["H8IL06139"],
       "govtrack": 412775,
       "opensecrets": "N00041338",
       "wikipedia": "Sean Casten",
@@ -46640,9 +45649,7 @@
   {
     "id": {
       "bioguide": "U000040",
-      "fec": [
-        "H8IL14174"
-      ],
+      "fec": ["H8IL14174"],
       "govtrack": 412776,
       "wikipedia": "Lauren Underwood",
       "wikidata": "Q48471874",
@@ -46677,9 +45684,7 @@
   {
     "id": {
       "bioguide": "B001307",
-      "fec": [
-        "H8IN04199"
-      ],
+      "fec": ["H8IN04199"],
       "govtrack": 412777,
       "opensecrets": "N00041954",
       "wikipedia": "Jim Baird (American politician)",
@@ -46715,9 +45720,7 @@
   {
     "id": {
       "bioguide": "P000615",
-      "fec": [
-        "H8IN06129"
-      ],
+      "fec": ["H8IN06129"],
       "govtrack": 412778,
       "wikipedia": "Greg Pence",
       "wikidata": "Q52151577",
@@ -46752,9 +45755,7 @@
   {
     "id": {
       "bioguide": "W000824",
-      "fec": [
-        "H8KS02199"
-      ],
+      "fec": ["H8KS02199"],
       "govtrack": 412779,
       "wikipedia": "Steve Watkins (politician)",
       "wikidata": "Q60428824",
@@ -46789,9 +45790,7 @@
   {
     "id": {
       "bioguide": "D000629",
-      "fec": [
-        "H8KS03155"
-      ],
+      "fec": ["H8KS03155"],
       "govtrack": 412780,
       "opensecrets": "N00042626",
       "wikipedia": "Sharice Davids",
@@ -46827,9 +45826,7 @@
   {
     "id": {
       "bioguide": "T000482",
-      "fec": [
-        "H8MA03106"
-      ],
+      "fec": ["H8MA03106"],
       "govtrack": 412781,
       "wikipedia": "Lori Trahan",
       "wikidata": "Q56486676",
@@ -46864,9 +45861,7 @@
   {
     "id": {
       "bioguide": "P000617",
-      "fec": [
-        "H8MA07032"
-      ],
+      "fec": ["H8MA07032"],
       "govtrack": 412782,
       "wikipedia": "Ayanna Pressley",
       "wikidata": "Q13562359",
@@ -46902,9 +45897,7 @@
   {
     "id": {
       "bioguide": "T000483",
-      "fec": [
-        "H6MD08549"
-      ],
+      "fec": ["H6MD08549"],
       "govtrack": 412783,
       "opensecrets": "N00039122",
       "wikipedia": "David Trone",
@@ -46940,9 +45933,7 @@
   {
     "id": {
       "bioguide": "S001208",
-      "fec": [
-        "H8MI08102"
-      ],
+      "fec": ["H8MI08102"],
       "govtrack": 412784,
       "wikipedia": "Elissa Slotkin",
       "wikidata": "Q30323721",
@@ -46978,9 +45969,7 @@
   {
     "id": {
       "bioguide": "L000592",
-      "fec": [
-        "H8MI09118"
-      ],
+      "fec": ["H8MI09118"],
       "govtrack": 412785,
       "wikipedia": "Andy Levin",
       "wikidata": "Q4760938",
@@ -47015,9 +46004,7 @@
   {
     "id": {
       "bioguide": "S001215",
-      "fec": [
-        "H8MI11254"
-      ],
+      "fec": ["H8MI11254"],
       "govtrack": 412786,
       "wikipedia": "Haley Stevens",
       "wikidata": "Q58322563",
@@ -47054,9 +46041,7 @@
   {
     "id": {
       "bioguide": "T000481",
-      "fec": [
-        "H8MI13250"
-      ],
+      "fec": ["H8MI13250"],
       "govtrack": 412787,
       "wikipedia": "Rashida Tlaib",
       "wikidata": "Q7294939",
@@ -47092,9 +46077,7 @@
   {
     "id": {
       "bioguide": "H001088",
-      "fec": [
-        "H0MN01045"
-      ],
+      "fec": ["H0MN01045"],
       "govtrack": 412788,
       "wikipedia": "Jim Hagedorn",
       "wikidata": "Q58494532",
@@ -47129,9 +46112,7 @@
   {
     "id": {
       "bioguide": "C001119",
-      "fec": [
-        "H6MN02131"
-      ],
+      "fec": ["H6MN02131"],
       "govtrack": 412789,
       "opensecrets": "N00037039",
       "wikipedia": "Angie Craig",
@@ -47167,9 +46148,7 @@
   {
     "id": {
       "bioguide": "P000616",
-      "fec": [
-        "H8MN03143"
-      ],
+      "fec": ["H8MN03143"],
       "govtrack": 412790,
       "wikipedia": "Dean Phillips",
       "wikidata": "Q58323131",
@@ -47204,9 +46183,7 @@
   {
     "id": {
       "bioguide": "O000173",
-      "fec": [
-        "H8MN05239"
-      ],
+      "fec": ["H8MN05239"],
       "govtrack": 412791,
       "wikipedia": "Ilhan Omar",
       "wikidata": "Q26436159",
@@ -47241,9 +46218,7 @@
   {
     "id": {
       "bioguide": "S001212",
-      "fec": [
-        "H8MN08043"
-      ],
+      "fec": ["H8MN08043"],
       "govtrack": 412792,
       "wikipedia": "Pete Stauber",
       "wikidata": "Q55955746",
@@ -47278,9 +46253,7 @@
   {
     "id": {
       "bioguide": "G000591",
-      "fec": [
-        "H8MS03125"
-      ],
+      "fec": ["H8MS03125"],
       "govtrack": 412793,
       "wikipedia": "Michael Guest (politician)",
       "wikidata": "Q60428645",
@@ -47314,9 +46287,7 @@
   {
     "id": {
       "bioguide": "A000377",
-      "fec": [
-        "H8ND00096"
-      ],
+      "fec": ["H8ND00096"],
       "govtrack": 412794,
       "opensecrets": "N00042868",
       "wikipedia": "Kelly Armstrong",
@@ -47351,9 +46322,7 @@
   {
     "id": {
       "bioguide": "P000614",
-      "fec": [
-        "H8NH01210"
-      ],
+      "fec": ["H8NH01210"],
       "govtrack": 412795,
       "wikipedia": "Chris Pappas (politician)",
       "wikidata": "Q5107684",
@@ -47388,9 +46357,7 @@
   {
     "id": {
       "bioguide": "V000133",
-      "fec": [
-        "H8NJ02166"
-      ],
+      "fec": ["H8NJ02166"],
       "govtrack": 412796,
       "wikipedia": "Jeff Van Drew",
       "wikidata": "Q6175202",
@@ -47438,9 +46405,7 @@
   {
     "id": {
       "bioguide": "K000394",
-      "fec": [
-        "H8NJ03206"
-      ],
+      "fec": ["H8NJ03206"],
       "govtrack": 412797,
       "wikipedia": "Andy Kim (politician)",
       "wikidata": "Q55639180",
@@ -47474,9 +46439,7 @@
   {
     "id": {
       "bioguide": "M001203",
-      "fec": [
-        "H8NJ07223"
-      ],
+      "fec": ["H8NJ07223"],
       "govtrack": 412798,
       "wikipedia": "Tom Malinowski",
       "wikidata": "Q23772336",
@@ -47513,9 +46476,7 @@
   {
     "id": {
       "bioguide": "S001207",
-      "fec": [
-        "H8NJ11142"
-      ],
+      "fec": ["H8NJ11142"],
       "govtrack": 412799,
       "wikipedia": "Mikie Sherrill",
       "wikidata": "Q47087146",
@@ -47551,9 +46512,7 @@
   {
     "id": {
       "bioguide": "H001080",
-      "fec": [
-        "H8NM01331"
-      ],
+      "fec": ["H8NM01331"],
       "govtrack": 412800,
       "wikipedia": "Deb Haaland",
       "wikidata": "Q54860790",
@@ -47589,9 +46548,7 @@
   {
     "id": {
       "bioguide": "T000484",
-      "fec": [
-        "H8NM02248"
-      ],
+      "fec": ["H8NM02248"],
       "govtrack": 412801,
       "opensecrets": "N00042467",
       "wikipedia": "Xochitl Torres Small",
@@ -47626,9 +46583,7 @@
   {
     "id": {
       "bioguide": "L000590",
-      "fec": [
-        "H6NV04020"
-      ],
+      "fec": ["H6NV04020"],
       "govtrack": 412802,
       "opensecrets": "N00037247",
       "wikipedia": "Susie Lee",
@@ -47663,9 +46618,7 @@
   {
     "id": {
       "bioguide": "R000613",
-      "fec": [
-        "H8NY11113"
-      ],
+      "fec": ["H8NY11113"],
       "govtrack": 412803,
       "wikipedia": "Max Rose (politician)",
       "wikidata": "Q56046860",
@@ -47699,9 +46652,7 @@
   {
     "id": {
       "bioguide": "O000172",
-      "fec": [
-        "H8NY15148"
-      ],
+      "fec": ["H8NY15148"],
       "govtrack": 412804,
       "wikipedia": "Alexandria Ocasio-Cortez",
       "wikidata": "Q55223040",
@@ -47737,9 +46688,7 @@
   {
     "id": {
       "bioguide": "D000630",
-      "fec": [
-        "H8NY19181"
-      ],
+      "fec": ["H8NY19181"],
       "govtrack": 412805,
       "wikipedia": "Antonio Delgado (politician)",
       "wikidata": "Q60428696",
@@ -47773,9 +46722,7 @@
   {
     "id": {
       "bioguide": "B001308",
-      "fec": [
-        "H8NY22151"
-      ],
+      "fec": ["H8NY22151"],
       "govtrack": 412806,
       "opensecrets": "N00041385",
       "wikipedia": "Anthony Brindisi",
@@ -47812,9 +46759,7 @@
   {
     "id": {
       "bioguide": "G000588",
-      "fec": [
-        "H8OH16124"
-      ],
+      "fec": ["H8OH16124"],
       "govtrack": 412807,
       "wikipedia": "Anthony Gonzalez",
       "wikidata": "Q3487172",
@@ -47849,9 +46794,7 @@
   {
     "id": {
       "bioguide": "H001083",
-      "fec": [
-        "H8OK05109"
-      ],
+      "fec": ["H8OK05109"],
       "govtrack": 412808,
       "wikipedia": "Kendra Horn",
       "wikidata": "Q58323559",
@@ -47887,9 +46830,7 @@
   {
     "id": {
       "bioguide": "D000631",
-      "fec": [
-        "H8PA04116"
-      ],
+      "fec": ["H8PA04116"],
       "govtrack": 412809,
       "wikipedia": "Madeleine Dean",
       "wikidata": "Q6726900",
@@ -47925,9 +46866,7 @@
   {
     "id": {
       "bioguide": "H001085",
-      "fec": [
-        "H8PA06087"
-      ],
+      "fec": ["H8PA06087"],
       "govtrack": 412810,
       "wikipedia": "Chrissy Houlahan",
       "wikidata": "Q56274180",
@@ -47963,9 +46902,7 @@
   {
     "id": {
       "bioguide": "M001204",
-      "fec": [
-        "H8PA10147"
-      ],
+      "fec": ["H8PA10147"],
       "govtrack": 412811,
       "wikipedia": "Dan Meuser",
       "wikidata": "Q5214012",
@@ -48001,9 +46938,7 @@
   {
     "id": {
       "bioguide": "J000302",
-      "fec": [
-        "H8PA13125"
-      ],
+      "fec": ["H8PA13125"],
       "govtrack": 412812,
       "wikipedia": "John Joyce (American politician)",
       "wikidata": "Q60428839",
@@ -48037,9 +46972,7 @@
   {
     "id": {
       "bioguide": "R000610",
-      "fec": [
-        "H8PA18199"
-      ],
+      "fec": ["H8PA18199"],
       "govtrack": 412813,
       "wikipedia": "Guy Reschenthaler",
       "wikidata": "Q22096097",
@@ -48075,9 +47008,7 @@
   {
     "id": {
       "bioguide": "C001122",
-      "fec": [
-        "H8SC01116"
-      ],
+      "fec": ["H8SC01116"],
       "govtrack": 412814,
       "wikipedia": "Joe Cunningham (American politician)",
       "wikidata": "Q58993183",
@@ -48112,9 +47043,7 @@
   {
     "id": {
       "bioguide": "T000480",
-      "fec": [
-        "H8SC04250"
-      ],
+      "fec": ["H8SC04250"],
       "govtrack": 412815,
       "wikipedia": "William Timmons (politician)",
       "wikidata": "Q28837296",
@@ -48151,9 +47080,7 @@
   {
     "id": {
       "bioguide": "J000301",
-      "fec": [
-        "H8SD01055"
-      ],
+      "fec": ["H8SD01055"],
       "govtrack": 412816,
       "wikipedia": "Dusty Johnson",
       "wikidata": "Q30015838",
@@ -48188,9 +47115,7 @@
   {
     "id": {
       "bioguide": "B001309",
-      "fec": [
-        "H8TN02119"
-      ],
+      "fec": ["H8TN02119"],
       "govtrack": 412817,
       "opensecrets": "N00041594",
       "wikipedia": "Tim Burchett",
@@ -48226,9 +47151,7 @@
   {
     "id": {
       "bioguide": "R000612",
-      "fec": [
-        "H8TN06094"
-      ],
+      "fec": ["H8TN06094"],
       "govtrack": 412818,
       "wikipedia": "John Rose (Tennessee politician)",
       "wikidata": "Q33044040",
@@ -48264,9 +47187,7 @@
   {
     "id": {
       "bioguide": "G000590",
-      "fec": [
-        "H8TN07076"
-      ],
+      "fec": ["H8TN07076"],
       "govtrack": 412819,
       "wikipedia": "Mark E. Green",
       "wikidata": "Q16224587",
@@ -48303,9 +47224,7 @@
   {
     "id": {
       "bioguide": "C001120",
-      "fec": [
-        "H8TX02166"
-      ],
+      "fec": ["H8TX02166"],
       "govtrack": 412820,
       "wikipedia": "Dan Crenshaw",
       "wikidata": "Q58301995",
@@ -48341,9 +47260,7 @@
   {
     "id": {
       "bioguide": "T000479",
-      "fec": [
-        "H8TX03123"
-      ],
+      "fec": ["H8TX03123"],
       "govtrack": 412821,
       "wikipedia": "Van Taylor",
       "wikidata": "Q7913689",
@@ -48378,9 +47295,7 @@
   {
     "id": {
       "bioguide": "G000589",
-      "fec": [
-        "H8TX05144"
-      ],
+      "fec": ["H8TX05144"],
       "govtrack": 412822,
       "wikipedia": "Lance Gooden",
       "wikidata": "Q6483406",
@@ -48416,9 +47331,7 @@
   {
     "id": {
       "bioguide": "W000827",
-      "fec": [
-        "H8TX06233"
-      ],
+      "fec": ["H8TX06233"],
       "govtrack": 412823,
       "wikipedia": "Ron Wright (politician)",
       "wikidata": "Q60428775",
@@ -48452,9 +47365,7 @@
   {
     "id": {
       "bioguide": "F000468",
-      "fec": [
-        "H8TX07140"
-      ],
+      "fec": ["H8TX07140"],
       "govtrack": 412824,
       "wikipedia": "Lizzie Pannill Fletcher",
       "wikidata": "Q58324313",
@@ -48490,9 +47401,7 @@
   {
     "id": {
       "bioguide": "E000299",
-      "fec": [
-        "H8TX16109"
-      ],
+      "fec": ["H8TX16109"],
       "govtrack": 412825,
       "wikipedia": "Veronica Escobar",
       "wikidata": "Q52274267",
@@ -48527,9 +47436,7 @@
   {
     "id": {
       "bioguide": "R000614",
-      "fec": [
-        "H8TX21307"
-      ],
+      "fec": ["H8TX21307"],
       "govtrack": 412826,
       "wikipedia": "Chip Roy",
       "wikidata": "Q58333615",
@@ -48564,9 +47471,7 @@
   {
     "id": {
       "bioguide": "G000587",
-      "fec": [
-        "H8TX29052"
-      ],
+      "fec": ["H8TX29052"],
       "govtrack": 412827,
       "wikipedia": "Sylvia Garcia",
       "wikidata": "Q13562489",
@@ -48603,9 +47508,7 @@
   {
     "id": {
       "bioguide": "A000376",
-      "fec": [
-        "H8TX32098"
-      ],
+      "fec": ["H8TX32098"],
       "govtrack": 412828,
       "opensecrets": "N00040989",
       "wikipedia": "Colin Allred",
@@ -48641,9 +47544,7 @@
   {
     "id": {
       "bioguide": "M001209",
-      "fec": [
-        "H8UT04053"
-      ],
+      "fec": ["H8UT04053"],
       "govtrack": 412829,
       "wikipedia": "Ben McAdams",
       "wikidata": "Q4886138",
@@ -48679,9 +47580,7 @@
   {
     "id": {
       "bioguide": "L000591",
-      "fec": [
-        "H8VA02111"
-      ],
+      "fec": ["H8VA02111"],
       "govtrack": 412830,
       "wikipedia": "Elaine Luria",
       "wikidata": "Q58323073",
@@ -48718,9 +47617,7 @@
   {
     "id": {
       "bioguide": "R000611",
-      "fec": [
-        "H8VA05171"
-      ],
+      "fec": ["H8VA05171"],
       "govtrack": 412831,
       "wikipedia": "Denver Riggleman",
       "wikidata": "Q28086149",
@@ -48755,9 +47652,7 @@
   {
     "id": {
       "bioguide": "C001118",
-      "fec": [
-        "H8VA06104"
-      ],
+      "fec": ["H8VA06104"],
       "govtrack": 412832,
       "opensecrets": "N00042296",
       "wikipedia": "Ben Cline",
@@ -48793,9 +47688,7 @@
   {
     "id": {
       "bioguide": "S001209",
-      "fec": [
-        "H8VA07094"
-      ],
+      "fec": ["H8VA07094"],
       "govtrack": 412833,
       "wikipedia": "Abigail Spanberger",
       "wikidata": "Q55603085",
@@ -48831,9 +47724,7 @@
   {
     "id": {
       "bioguide": "W000825",
-      "fec": [
-        "H8VA10106"
-      ],
+      "fec": ["H8VA10106"],
       "govtrack": 412834,
       "wikipedia": "Jennifer Wexton",
       "wikidata": "Q16206735",
@@ -48869,9 +47760,7 @@
   {
     "id": {
       "bioguide": "S001216",
-      "fec": [
-        "H8WA08189"
-      ],
+      "fec": ["H8WA08189"],
       "govtrack": 412835,
       "wikipedia": "Kim Schrier",
       "wikidata": "Q58333616",
@@ -48906,9 +47795,7 @@
   {
     "id": {
       "bioguide": "S001213",
-      "fec": [
-        "H8WI01156"
-      ],
+      "fec": ["H8WI01156"],
       "govtrack": 412836,
       "wikipedia": "Bryan Steil",
       "wikidata": "Q58494431",
@@ -48942,9 +47829,7 @@
   {
     "id": {
       "bioguide": "M001205",
-      "fec": [
-        "H8WV03097"
-      ],
+      "fec": ["H8WV03097"],
       "govtrack": 412837,
       "wikipedia": "Carol Miller (politician)",
       "wikidata": "Q16145531",
@@ -48982,9 +47867,7 @@
     "id": {
       "bioguide": "S001217",
       "lis": "S404",
-      "fec": [
-        "S8FL00273"
-      ],
+      "fec": ["S8FL00273"],
       "govtrack": 412838,
       "opensecrets": "N00043290",
       "wikipedia": "Rick Scott",
@@ -49023,9 +47906,7 @@
   {
     "id": {
       "bioguide": "B001310",
-      "fec": [
-        "S8IN00171"
-      ],
+      "fec": ["S8IN00171"],
       "govtrack": 412839,
       "opensecrets": "N00041731",
       "wikipedia": "Mike Braun",
@@ -49065,9 +47946,7 @@
   {
     "id": {
       "bioguide": "H001089",
-      "fec": [
-        "S8MO00160"
-      ],
+      "fec": ["S8MO00160"],
       "govtrack": 412840,
       "opensecrets": "N00041620",
       "wikipedia": "Josh Hawley",
@@ -49107,10 +47986,7 @@
   {
     "id": {
       "bioguide": "R000615",
-      "fec": [
-        "S8UT00176",
-        "S4MA00143"
-      ],
+      "fec": ["S8UT00176", "S4MA00143"],
       "govtrack": 412841,
       "opensecrets": "N00000286",
       "wikipedia": "Mitt Romney",
@@ -49150,10 +48026,7 @@
   {
     "id": {
       "bioguide": "M001197",
-      "fec": [
-        "S8AZ00221",
-        "H2AZ08102"
-      ],
+      "fec": ["S8AZ00221", "H2AZ08102"],
       "govtrack": 412611,
       "opensecrets": "N00033982",
       "thomas": "02225",
@@ -49222,9 +48095,7 @@
   {
     "id": {
       "bioguide": "G000592",
-      "fec": [
-        "H8ME02185"
-      ],
+      "fec": ["H8ME02185"],
       "govtrack": 412842,
       "wikipedia": "Jared Golden",
       "wikidata": "Q41694157",
@@ -49260,9 +48131,7 @@
   {
     "id": {
       "bioguide": "K000395",
-      "fec": [
-        "H0PA12181"
-      ],
+      "fec": ["H0PA12181"],
       "govtrack": 412843,
       "wikipedia": "Fred Keller (politician)",
       "wikidata": "Q5495642",
@@ -49297,9 +48166,7 @@
   {
     "id": {
       "bioguide": "B001311",
-      "fec": [
-        "H0NC09187"
-      ],
+      "fec": ["H0NC09187"],
       "govtrack": 412844,
       "opensecrets": "N00044335",
       "wikipedia": "Dan Bishop",
@@ -49335,9 +48202,7 @@
   {
     "id": {
       "bioguide": "M001210",
-      "fec": [
-        "H0NC03172"
-      ],
+      "fec": ["H0NC03172"],
       "govtrack": 412845,
       "opensecrets": "N00044027",
       "wikipedia": "Greg Murphy (politician)",
@@ -49375,9 +48240,7 @@
     "id": {
       "bioguide": "L000594",
       "lis": "S405",
-      "fec": [
-        "S0GA00526"
-      ],
+      "fec": ["S0GA00526"],
       "govtrack": 456790,
       "wikipedia": "Kelly Loeffler",
       "wikidata": "Q76570207",
@@ -49415,11 +48278,7 @@
     "id": {
       "bioguide": "M000687",
       "thomas": "00798",
-      "fec": [
-        "S6MD03185",
-        "H6MD07020",
-        "H0MD07114"
-      ],
+      "fec": ["S6MD03185", "H6MD07020", "H0MD07114"],
       "govtrack": 407672,
       "opensecrets": "N00001799",
       "icpsr": 15433,
@@ -49494,9 +48353,7 @@
   {
     "id": {
       "bioguide": "T000165",
-      "fec": [
-        "H0WI07101"
-      ],
+      "fec": ["H0WI07101"],
       "govtrack": 456791,
       "opensecrets": "N00045307",
       "wikipedia": "Tom Tiffany",
@@ -49530,9 +48387,7 @@
   {
     "id": {
       "bioguide": "G000061",
-      "fec": [
-        "H0CA25105"
-      ],
+      "fec": ["H0CA25105"],
       "govtrack": 456792,
       "opensecrets": "N00044298",
       "wikipedia": "Mike Garcia (politician)",
@@ -49565,9 +48420,7 @@
   {
     "id": {
       "bioguide": "J000020",
-      "fec": [
-        "H0NY27090"
-      ],
+      "fec": ["H0NY27090"],
       "govtrack": 456793,
       "opensecrets": "N00044575",
       "wikipedia": "Chris Jacobs (politician)",
