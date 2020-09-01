@@ -1,6 +1,7 @@
 import express from "express";
 import axios from "axios";
 import dataSet from "./data/legislators-current.json";
+import { americanFlag } from "./data/americanFlag";
 import Promise from "bluebird";
 const NodeCache = require("node-cache");
 const webp = require("webp-converter");
@@ -11,24 +12,24 @@ webp.grant_permission();
 
 const imgCache = new NodeCache({ stdTTL: 300, checkperiod: 320 });
 
-const getCongressData = () => {
-  const result = Promise.map(
-    dataSet,
-    async (congressPerson) => {
-      const currentTermData = congressPerson.terms.slice(-1)[0];
-      const image = await getImage(congressPerson.id.bioguide);
-      const data = {
-        name: congressPerson.name.official_full,
-        image: image,
-        politicalAffiliation: currentTermData.party,
-        title: currentTermData.type,
-        state: currentTermData.state,
-      };
+const getCongressData = async () => {
+  let result = [];
 
-      return data;
-    },
-    { concurrency: 3 }
-  );
+  for (let congressPerson of dataSet) {
+    const currentTermData = congressPerson.terms.slice(-1)[0];
+
+    const image = await getImage(congressPerson.id.bioguide);
+
+    const data = {
+      name: congressPerson.name.official_full,
+      image: image,
+      politicalAffiliation: currentTermData.party,
+      title: currentTermData.type,
+      state: currentTermData.state,
+    };
+
+    result.push(data);
+  }
   return result;
 };
 
@@ -53,9 +54,9 @@ const getImage = async (imageRef) => {
         });
     } catch (err) {
       console.log("err:", err);
+      img = americanFlag;
+      imgCache.set(imageRef, americanFlag, 300);
     }
-  } else {
-    Promise.resolve(img);
   }
   return img;
 };
